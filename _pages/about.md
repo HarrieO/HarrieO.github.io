@@ -30,7 +30,7 @@ Background
 ------
 I have completed most of my education at the [University of Amsterdam](https://www.uva.nl/en).
 My bachelor's and master's degree are both in Artificial Intelligence and cum laude.
-During my master's program I joined the ILPS Information Retrieval group lead by prof. dr. Maarten de Rijke as a honours student (now known as the [IRLab](https://irlab.science.uva.nl/) lead my prof. dr. Evangelos Kanoulas).
+During my master's program I joined the ILPS Information Retrieval group lead by [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as a honours student (now known as the [IRLab](https://irlab.science.uva.nl/) lead my [prof. dr. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/)).
 In addition, I completed three internships at Google Research in California during my master's and PhD.
 Under supervision of prof. dr. Maarten de Rijke, I obtained my PhD degree cum laude on my thesis titled _Learning from user interactions with rankings: A unification of the field_.
 
