@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Harrie Oosterhuis"
+title                    : "Harrie Oosterhuis"
 title_separator          : "-"
 name                     : &name "Harrie Oosterhuis"
 description              : &description "personal description"
