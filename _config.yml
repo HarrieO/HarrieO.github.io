@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Harrie Oosterhuis"
   avatar           : "pasfoto.jpg"
-  bio              : "Assistant Professor at the Radboud University Nijmegen."
+  bio              : "Assistant Professor at the Radboud University Nijmegen. Email: {my first name}.{my last name}@ru.nl"
   location         : "Amsterdam, The Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e9JynrAAAAAJ"
-  email            : "harrie.oosterhuis@ru.nl"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

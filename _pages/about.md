@@ -22,7 +22,7 @@ While the goals of these systems if often to follow users' preferences, the inte
 As a result, these methods have to correct for these _interaction biases_.
 My research often uses theoretical methods for counterfactual estimation with machine learning approaches to optimize ranking systems.
 
-On the long term, I hope my research contributes to ranking systems that can better satisfy and understand diverse user preferences that also consider the societal impact of their behavior (e.g. ranking fairness, the spreading misinformation or harmful ideas).
+On the long term, my line of research aims to contribute to ranking systems that can better satisfy and understand diverse user preferences that also consider the societal impact of their behavior (e.g. ranking fairness, the spreading misinformation or harmful ideas).
 
 To see the output of my research efforts check out [my publications page](publications).
 
