@@ -9,6 +9,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.publications %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
