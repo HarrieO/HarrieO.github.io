@@ -24,7 +24,7 @@ My research often uses theoretical methods for counterfactual estimation with ma
 
 On the long term, my line of research aims to contribute to ranking systems that can better satisfy and understand diverse user preferences that also consider the societal impact of their behavior (e.g. ranking fairness, the spreading misinformation or harmful ideas).
 
-To see the output of my research efforts check out [my publications page](publications).
+To see the output of my research efforts check out [my Google Scholar page](https://scholar.google.com/citations?user=e9JynrAAAAAJ) and [my publications page](publications).
 
 Background
 ------
