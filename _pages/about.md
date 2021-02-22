@@ -24,7 +24,7 @@ My research often uses theoretical methods for counterfactual estimation with ma
 
 On the long term, my line of research aims to contribute to ranking systems that can better satisfy and understand diverse user preferences that also consider the societal impact of their behavior (e.g. ranking fairness, the spreading misinformation or harmful ideas).
 
-To see the output of my research efforts check out [my Google Scholar page](https://scholar.google.com/citations?user=e9JynrAAAAAJ) and [my publications page](publications).
+To see the output of my research efforts check out [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) or [my publications page](publications).
 
 Background
 ------
@@ -32,7 +32,7 @@ I have completed most of my education at the [University of Amsterdam](https://w
 My bachelor's and master's degree are both in Artificial Intelligence and cum laude.
 During my master's program I joined the ILPS Information Retrieval group lead by [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as a honours student (now known as the [IRLab](https://irlab.science.uva.nl/) lead my [prof. dr. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/)).
 In addition, I completed three internships at Google Research in California during my master's and PhD.
-Under supervision of prof. dr. Maarten de Rijke, I obtained my PhD degree cum laude on my thesis titled _Learning from user interactions with rankings: A unification of the field_.
+Under supervision of prof. dr. Maarten de Rijke, I graduated my PhD degree cum laude on my thesis titled _Learning from user interactions with rankings: A unification of the field_.
 
 For more information on my past achievements, see [my CV page](https://harrieo.github.io//cv/).
 
