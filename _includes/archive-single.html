@@ -46,19 +46,16 @@
           [
           {% endif %}
           {% if post.paperurl %}
-              <a href="{{ post.paperurl }}" rel="permalink">pdf</a>
+              <a href="{{ post.paperurl }}" rel="permalink">pdf</a>{% if post.codeurl or post.youtube %},{% endif %}
           {% endif %}
           {% if post.codeurl %}
-              {% if post.paperurl %}
-              ,
-              {% endif %}
               <a href="{{ post.codeurl }}" rel="permalink">code</a>
           {% endif %}
           {% if post.youtube %}
               {% if post.paperurl or post.codeurl %}
               ,
               {% endif %}
-              <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">[video</a>
+              <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">video</a>
           {% endif %}
           {% if post.paperurl or post.codeurl or post.youtube %}
           ]
