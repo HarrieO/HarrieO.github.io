@@ -33,15 +33,6 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" rel="permalink">[pdf]</a>
-    {% endif %}
-    {% if post.youtube %}
-        <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">[video]</a>
-    {% endif %}
-    {% if post.codeurl %}
-        <a href="{{ post.codeurl }}" rel="permalink">[code]</a>
-    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -52,7 +43,17 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>.
+          {% if post.paperurl %}
+              <a href="{{ post.paperurl }}" rel="permalink">[pdf]</a>
+          {% endif %}
+          {% if post.codeurl %}
+              <a href="{{ post.codeurl }}" rel="permalink">[code]</a>
+          {% endif %}
+          {% if post.youtube %}
+              <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">[video]</a>
+          {% endif %}
+         </p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
