@@ -42,23 +42,22 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-          {% if post.paperurl or post.codeurl or post.youtube %}
+          {%- if post.paperurl or post.codeurl or post.youtube -%}
           [
-          {% endif %}
-          {% if post.paperurl %}
+          {%- endif -%}
+          {%- if post.paperurl -%}
               <a href="{{ post.paperurl }}" rel="permalink">pdf</a>
-          {% endif %}
-          {% if post.codeurl %}
-              {% if post.paperurl %}
+          {%- endif -%}
+          {%- if post.codeurl -%}
+              {%- if post.paperurl -%}
               ,
-              {% endif %}
+              {% endif -%}
               <a href="{{ post.codeurl }}" rel="permalink">code</a>
-          {% endif %}
+          {%- endif -%}
           {%- if post.youtube -%}
               {%- if post.paperurl or post.codeurl -%}
               ,
-              {%- endif -%}
-              
+              {% endif %}
               <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">video</a>
           {%- endif -%}
           {%- if post.paperurl or post.codeurl or post.youtube -%}
