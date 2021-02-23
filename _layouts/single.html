@@ -56,7 +56,7 @@ layout: default
           </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
-          <!-- {%- if page.paperurl or page.codeurl %}
+          {%- if page.paperurl or page.codeurl %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -70,7 +70,7 @@ layout: default
           {%- endif -%}
           {%- if page.paperurl or page.codeurl -%}
           ]
-          {%- endif -%} -->
+          {%- endif -%}
           </p>
         {% endif %}
 
@@ -92,6 +92,7 @@ layout: default
       </section>
 
       <footer class="page__meta">
+
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
@@ -100,7 +101,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include page_pagination.html %}
+      {% include post_pagination.html %}
     </div>
 
     {% if site.comments.provider and page.comments %}
