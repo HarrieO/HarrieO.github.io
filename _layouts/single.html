@@ -75,8 +75,8 @@ layout: default
         {% endif %}
 
         {%- if page.youtube -%}
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        {% endif %}
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {%- endif -%}
     
         </header>
       {% endunless %}
