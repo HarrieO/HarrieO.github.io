@@ -42,7 +42,6 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-          {% spaceless %}
           {% if post.paperurl or post.codeurl or post.youtube %}
           [
           {% endif %}
@@ -55,16 +54,16 @@
               {% endif %}
               <a href="{{ post.codeurl }}" rel="permalink">code</a>
           {% endif %}
-          {% if post.youtube %}
-              {% if post.paperurl or post.codeurl %}
+          {%- if post.youtube -%}
+              {%- if post.paperurl or post.codeurl -%}
               ,
-              {% endif %}
+              {%- endif -%}
+              
               <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">video</a>
-          {% endif %}
-          {% if post.paperurl or post.codeurl or post.youtube %}
+          {%- endif -%}
+          {%- if post.paperurl or post.codeurl or post.youtube -%}
           ]
-          {% endif %}
-          {% endspaceless %}
+          {%- endif -%}
           </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>.</p>
