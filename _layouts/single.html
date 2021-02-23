@@ -75,7 +75,7 @@ layout: default
         {% endif %}
 
         {% if page.youtube %}
-          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         {% endif %}
     
         </header>
@@ -85,8 +85,15 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       
+        {%- if page.paperurl -%}
+          <p><a href="{{ page.paperurl }}" rel="permalink">Download the paper here.</a></p>
+        {%- endif -%}
+        {%- if page.codeurl -%}
+          <p><a href="{{ page.codeurl }}" rel="permalink">Paper code is available here.</a></p>
+        {%- endif -%}
+
         {% if page.citation %}
-          <h4>Recommended citation:</h4><p>{{ page.citation }} </p>
+          <h3>Recommended citation:</h3><p>{{ page.citation }} </p>
         {% endif %}
 
       </section>
