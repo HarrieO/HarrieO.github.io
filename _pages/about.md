@@ -40,4 +40,4 @@ Personal Mission
 ------
 Besides my passion for research, I also find it very important to create a healthy and welcoming working environment for researchers and students.
 Through discussion groups and personal mentoring, I have dedicated myself to help students feel appreciated and stimulate a healthy attitude towards their research/education.
-Finally, I think it is very important create an environment where students and researchers of every background should feel welcome and appreciated.
+I hope that this contributes to an environment where students and researchers of every background feel welcome and appreciated.
