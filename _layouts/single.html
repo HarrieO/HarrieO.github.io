@@ -35,27 +35,43 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}. </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}.
+          {%- if page.paperurl or page.codeurl %}
+          [
+          {%- endif -%}
+          {%- if page.paperurl -%}
+              <a href="{{ page.paperurl }}" rel="permalink">pdf</a>
+          {%- endif -%}
+          {%- if page.codeurl -%}
+              {%- if page.paperurl -%}
+              ,
+              {% endif -%}
+              <a href="{{ page.codeurl }}" rel="permalink">code</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl -%}
+          ]
+          {%- endif -%}
+          </p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-
-        {% if page.citation %}
-          <h5>Recommended citation:</h5><p>{{ page.citation }} </p>
-        {% endif %}
-
-        {% if page.paperurl %}
-          <p><a href={{ page.paperurl }}>
-            Download the paper here. 
-          </a></p>
-        {% endif %}
-
-        {% if page.codeurl %}
-          <p><a href={{ page.codeurl }}>
-            The code is available here. 
-          </a></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+          {%- if page.paperurl or page.codeurl %}
+          [
+          {%- endif -%}
+          {%- if page.paperurl -%}
+              <a href="{{ page.paperurl }}" rel="permalink">pdf</a>
+          {%- endif -%}
+          {%- if page.codeurl -%}
+              {%- if page.paperurl -%}
+              ,
+              {% endif -%}
+              <a href="{{ page.codeurl }}" rel="permalink">code</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl -%}
+          ]
+          {%- endif -%}
+          </p>
         {% endif %}
     
         </header>
@@ -64,6 +80,11 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      
+        {% if page.citation %}
+          <h4>Recommended citation:</h4><p>{{ page.citation }} </p>
+        {% endif %}
+
       </section>
 
       <footer class="page__meta">
@@ -79,7 +100,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
+      {% include page_pagination.html %}
     </div>
 
     {% if site.comments.provider and page.comments %}
