@@ -34,7 +34,13 @@
       {% endif %}
     </h2>
     {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" rel="permalink">[PDF]</a>
+        <a href="{{ post.paperurl }}" rel="permalink">[pdf]</a>
+    {% endif %}
+    {% if post.youtube %}
+        <a href="https://www.youtube.com/watch?v={{ post.youtube }}" rel="permalink">[video]</a>
+    {% endif %}
+    {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" rel="permalink">[code]</a>
     {% endif %}
     
     {% if post.read_time %}
