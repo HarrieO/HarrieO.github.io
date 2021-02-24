@@ -77,6 +77,13 @@ layout: default
         {% if page.youtube %}
           <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         {% endif %}
+
+        {% if page.othervideo %}
+          <video width="560" height="315" controls>
+            <source src="{page.othervideo}" type="video/mp4">
+            <a href="{{ page.codeurl }}" rel="permalink">Watch the paper video here.</a>
+          </video><br>
+        {% endif %}
     
         </header>
       {% endunless %}
