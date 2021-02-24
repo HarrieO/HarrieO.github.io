@@ -60,7 +60,7 @@ layout: default
           </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
-          {%- if page.paperurl or page.codeurl %}
+          {%- if page.paperurl or page.codeurl or post.slides or tutorialwebsite.slides -%}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -72,7 +72,19 @@ layout: default
               {% endif -%}
               <a href="{{ page.codeurl }}" rel="permalink">code</a>
           {%- endif -%}
-          {%- if page.paperurl or page.codeurl -%}
+          {%- if post.slides -%}
+              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo -%}
+              ,
+              {% endif %}
+              <a href="{{ post.slides }}" rel="permalink">slides</a>
+          {%- endif -%}
+          {%- if post.tutorialwebsite -%}
+              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides -%}
+              ,
+              {% endif %}
+              <a href="{{ post.tutorialwebsite }}" rel="permalink">website</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl or post.slides or tutorialwebsite.slides -%}
           ]
           {%- endif -%}
           </p>
@@ -99,8 +111,14 @@ layout: default
         {%- if page.paperurl -%}
           <p><a href="{{ page.paperurl }}" rel="permalink">Download the paper here.</a></p>
         {%- endif -%}
+        {%- if page.slides -%}
+          <p><a href="{{ page.tutorialwebsite }}" rel="permalink">Download the presentation slides here.</a></p>
+        {%- endif -%}
         {%- if page.codeurl -%}
           <p><a href="{{ page.codeurl }}" rel="permalink">Code is available here.</a></p>
+        {%- endif -%}
+        {%- if page.tutorialwebsite -%}
+          <p><a href="{{ page.tutorialwebsite }}" rel="permalink">Find the official tutorial website here.</a></p>
         {%- endif -%}
 
         {% if page.citation %}
