@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>
             {% if post.authors %}
-              <b>{{ post.authors }}</b>
+              <b>{{ post.authors }}</b>.
             {% endif %}
             Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
           {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo %}
