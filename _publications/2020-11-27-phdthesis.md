@@ -1,5 +1,6 @@
 ---
 title: "Learning from user interactions with rankings: A unification of the field"
+authors: "Harrie Oosterhuis"
 collection: publications
 permalink: /publication/2021-phd-thesis
 excerpt: "This thesis concerns learning to rank methods based on user clicks and specifically aims to unify the different families of these methods.
