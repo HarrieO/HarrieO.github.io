@@ -7,7 +7,7 @@ As a whole, the second part of this thesis proposes a framework that bridges man
 date: 2020-11-27
 venue: 'University of Amsterdam, PhD thesis'
 paperurl: http://harrieo.github.io/files/2020-phd-thesis-oosterhuis.pdf
-citation: Harrie Oosterhuis. &quot;Learning from User Interactions with Rankings: A Unification of the Field.&quot; <i>PhD thesis</i>, University of Amsterdam, November 2020.
+citation: "Harrie Oosterhuis. &quot;Learning from User Interactions with Rankings: A Unification of the Field.&quot; <i>PhD thesis</i>, University of Amsterdam, November 2020."
 youtube: 
 codeurl: 
 ---
