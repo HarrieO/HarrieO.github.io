@@ -6,7 +6,7 @@ permalink: /publication/2018-interactive
 excerpt: "Effective optimization is essential for interactive systems to provide a satisfactory user experience. However, it is often challenging to find an objective to optimize for. Generally, such objectives are manually crafted and rarely capture complex user needs accurately. Conversely, we propose an approach that infers the objective directly from observed user interactions."
 date: 2018-02-20
 venue: 'arXiv Preprint'
-paperurl: http://harrieo.github.io/files/2018-sigir.pdf
+paperurl: http://harrieo.github.io/files/2018-interactive.pdf
 citation: "Z. Li, A. Grotov, J. Kiseleva, M. de Rijke, H. Oosterhuis. &quot;Optimizing Interactive Systems with Data-Driven Objectives.&quot; In <i>arXiv preprint.</i>. 2018."
 youtube: 
 codeurl: 
