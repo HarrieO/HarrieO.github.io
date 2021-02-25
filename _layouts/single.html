@@ -42,7 +42,7 @@ layout: default
           <b>{{ page.authors | markdownify | remove: "<p>" | remove: "</p>" }}</b></br>
           {% endif %}
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}.
-          {%- if page.paperurl or page.codeurl %}
+          {%- if page.paperurl or page.codeurl or post.slides or post.tutorialwebsite %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -54,7 +54,19 @@ layout: default
               {% endif -%}
               <a href="{{ page.codeurl }}" rel="permalink">code</a>
           {%- endif -%}
-          {%- if page.paperurl or page.codeurl -%}
+          {%- if post.slides -%}
+              {%- if post.paperurl or post.codeurl -%}
+              ,
+              {% endif %}
+              <a href="{{ post.slides }}" rel="permalink">slides</a>
+          {%- endif -%}
+          {%- if post.tutorialwebsite -%}
+              {%- if post.paperurl or post.codeurl or post.slides -%}
+              ,
+              {% endif %}
+              <a href="{{ post.tutorialwebsite }}" rel="permalink">website</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl or post.slides or post.tutorialwebsite -%}
           ]
           {%- endif -%}
           </p>

@@ -46,7 +46,7 @@
               <b>{{ post.authors }}</b>.
             {% endif %}
             Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite -%}
+          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite %}
           [
           {%- endif -%}
           {%- if post.paperurl -%}
