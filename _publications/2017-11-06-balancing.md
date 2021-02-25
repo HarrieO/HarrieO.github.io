@@ -7,7 +7,7 @@ excerpt: "Effective optimization is essential for interactive systems to provide
 date: 2017-11-06
 venue: 'Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM ’17)'
 paperurl: http://harrieo.github.io/files/2017-balancing.pdf
-citation: "H. Oosterhuis, M. de Rijke. &quot;Balancing Speed and Quality in Online Learning to Rank for Information Retrieval.&quot; In <i>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management.</i>. ACM, 2017."
+citation: "H. Oosterhuis, M. de Rijke. &quot;Balancing Speed and Quality in Online Learning to Rank for Information Retrieval.&quot; In <i>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management</i>. ACM, 2017."
 youtube: 
 codeurl: https://github.com/HarrieO/BalancingSpeedQualityOLTR
 othervideo:

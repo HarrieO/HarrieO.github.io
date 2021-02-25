@@ -7,7 +7,7 @@ excerpt: "Our contribution is two-fold. First, we propose a theoretical framewor
 date: 2017-11-06
 venue: 'Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM ’17)'
 paperurl: http://harrieo.github.io/files/2017-multileave.pdf
-citation: "H. Oosterhuis, M. de Rijke. &quot;Sensitive and Scalable Online Evaluation with Theoretical Guarantees.&quot; In <i>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management.</i>. ACM, 2017."
+citation: "H. Oosterhuis, M. de Rijke. &quot;Sensitive and Scalable Online Evaluation with Theoretical Guarantees.&quot; In <i>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management</i>. ACM, 2017."
 youtube: 
 codeurl: https://github.com/HarrieO/PairwisePreferenceMultileave
 othervideo:

@@ -7,7 +7,7 @@ excerpt: "Effective optimization is essential for interactive systems to provide
 date: 2018-02-20
 venue: 'arXiv Preprint'
 paperurl: http://harrieo.github.io/files/2018-interactive.pdf
-citation: "Z. Li, A. Grotov, J. Kiseleva, M. de Rijke, H. Oosterhuis. &quot;Optimizing Interactive Systems with Data-Driven Objectives.&quot; In <i>arXiv preprint.</i>. 2018."
+citation: "Z. Li, A. Grotov, J. Kiseleva, M. de Rijke, H. Oosterhuis. &quot;Optimizing Interactive Systems with Data-Driven Objectives.&quot; In <i>arXiv preprint</i>. 2018."
 youtube: 
 codeurl: 
 othervideo:

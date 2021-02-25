@@ -7,7 +7,7 @@ excerpt: "Traditional Learning to Rank models optimize a single ranking function
 date: 2017-10-01
 venue: 'Proceedings of the 1st International Workshop on LEARning Next gEneration Rankers, co-located with the 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR ’17)'
 paperurl: http://harrieo.github.io/files/2017-specialization.pdf
-citation: "R. Jagerman, H. Oosterhuis, M. de Rijke. &quot;Query-level Ranker Specialization.&quot; In <i>Proceedings of the 1st International Workshop on LEARning Next gEneration Rankers, co-located with the 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR ’2017).</i>. ACM, 2017."
+citation: "R. Jagerman, H. Oosterhuis, M. de Rijke. &quot;Query-level Ranker Specialization.&quot; In <i>Proceedings of the 1st International Workshop on LEARning Next gEneration Rankers, co-located with the 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR ’2017)</i>. ACM, 2017."
 youtube: 
 codeurl:
 othervideo:
