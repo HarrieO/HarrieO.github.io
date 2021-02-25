@@ -10,7 +10,7 @@ paperurl: http://harrieo.github.io/files/2019-comparison.pdf
 citation: "H. Oosterhuis, R. Jagerman, M. de Rijke. &quot;To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions.&quot; In <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. ACM, 2019."
 youtube: 
 codeurl: https://github.com/rjagerman/sigir2019-user-interactions
-othervideo: http://harrieo.github.io/files/2019-comparison.mp4
+othervideo: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3331184.3331269&file=cite1-11h40-d1.mp4
 tutorialwebsite:
 slides:
 ---
