@@ -109,8 +109,12 @@ layout: default
         {% if page.othervideo %}
           <video width="560" height="315" controls>
             <source src="{{ page.othervideo }}" type="video/mp4">
-            <a href="{{ page.codeurl }}" rel="permalink">Watch the paper video here.</a>
+            <a href="{{ page.othervideo }}" rel="permalink">Watch the paper video here.</a>
           </video><br>
+        {% endif %}
+
+        {% if page.externalvideo %}
+          <p><a href="{{ page.externalvideo }}" rel="permalink">A video for this publication is available here.</a></p>
         {% endif %}
     
         </header>

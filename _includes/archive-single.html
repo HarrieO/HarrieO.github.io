@@ -46,7 +46,7 @@
               <b>{{ post.authors }}</b>.
             {% endif %}
             Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite %}
+          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite or post.externalvideo  %}
           [
           {%- endif -%}
           {%- if post.paperurl -%}
@@ -70,19 +70,25 @@
               {% endif %}
               <a href="{{ post.othervideo }}" rel="permalink">video</a>
           {%- endif -%}
-          {%- if post.slides -%}
+          {%- if post.externalvideo -%}
               {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo -%}
+              ,
+              {% endif %}
+              <a href="{{ post.externalvideo }}" rel="permalink">external video</a>
+          {%- endif -%}
+          {%- if post.slides -%}
+              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.externalvideo -%}
               ,
               {% endif %}
               <a href="{{ post.slides }}" rel="permalink">slides</a>
           {%- endif -%}
           {%- if post.tutorialwebsite -%}
-              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides -%}
+              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.externalvideo -%}
               ,
               {% endif %}
               <a href="{{ post.tutorialwebsite }}" rel="permalink">website</a>
           {%- endif -%}
-          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite -%}
+          {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides or post.tutorialwebsite or post.externalvideo -%}
           ]
           {%- endif -%}
           </p>
