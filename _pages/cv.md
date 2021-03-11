@@ -44,19 +44,19 @@ Employment
 Student Supervision
 ======
 * PhD students:
-  * 2019-2023 (expected): Jin Huang - Bias Mitigation Methods for Sequential Recommendation
-  * 2021-2025 (expected): Norman Knyazev - Recommendation Algorithms
+  * 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
+  * 2021-2025 (expected): **Norman Knyazev** - Recommendation Algorithms
 
 Teaching
 ======
 
-* 2018: Summer School Course - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
+* 2018: **Summer School Course** - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
   * Course title: Learning to Rank and Evaluation in the Online Setting
-* 2017-2018: Course Organizer - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
+* 2017-2018: **Course Organizer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Advanced Information Retrieval
-* 2016-2017: Invited Lectures - Google Brain - Mountain View, California, U.S.
+* 2016-2017: **Invited Lectures** - Google Brain - Mountain View, California, U.S.
   * Topics: Online Learning to Rank and Deep Reinforcement Learning
-* 2012-2015: Teaching Assistant - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
+* 2012-2015: **Teaching Assistant** - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
   * Topics: Introductary and Advanced Programming Courses
 
 Publications
