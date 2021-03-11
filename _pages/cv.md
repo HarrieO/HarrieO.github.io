@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<h2 style="text-align: center;"> Harrie Oosterhuis </h2>
+<h5 style="text-align: center;"> Curriculum Vitae  </h5>
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Machine Learning for Information Retrieval, University of Amsterdam, 2020
+* MSc in Artificial Intelligence, University of Amsterdam, 2016
+* BSc in Artificial Intelligence, University of Amsterdam, 2014
 
 Work experience
 ======
