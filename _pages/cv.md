@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<h2 style="text-align: center;"> Harrie Oosterhuis </h2>
-<h5 style="text-align: center;"> Curriculum Vitae  </h5>
+<h1 style="text-align: center;"> Harrie Oosterhuis </h1>
+<h3 style="text-align: center;"> Curriculum Vitae  </h3>
 
 Education
 ======
-* PhD in Machine Learning for Information Retrieval, University of Amsterdam, 2020
-* MSc in Artificial Intelligence, University of Amsterdam, 2016
-* BSc in Artificial Intelligence, University of Amsterdam, 2014
+* PhD in Machine Learning for Information Retrieval, University of Amsterdam, 2016-2020
+* MSc in Artificial Intelligence, University of Amsterdam, 2014-2016
+* BSc in Artificial Intelligence, University of Amsterdam, 2011-2014
 
 Work experience
 ======
