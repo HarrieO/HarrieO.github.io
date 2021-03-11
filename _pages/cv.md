@@ -10,15 +10,22 @@ redirect_from:
 {% include base_path %}
 
 <h1 style="text-align: center;"> Harrie Oosterhuis </h1>
-<h3 style="text-align: center;"> Curriculum Vitae  </h3>
+<p style="text-align: center;"> Curriculum Vitae  </p>
 
 Education
 ======
 * PhD in Machine Learning for Information Retrieval, University of Amsterdam, 2016-2020
+  * Received Cum Laude.
+  * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
+  * Promotor: [Prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
+  * Thesis: [Learning from user interactions with rankings: A unification of the field](publication/2021-phd-thesis)
 * MSc in Artificial Intelligence, University of Amsterdam, 2014-2016
+  * Graduated cum laude with an average of 9.1.
+  * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
 * BSc in Artificial Intelligence, University of Amsterdam, 2011-2014
+  * Graduated cum laude and cum honore with an average of 8.3.
 
-Work experience
+<!-- Employment
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -59,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
