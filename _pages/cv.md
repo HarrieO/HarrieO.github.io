@@ -14,15 +14,15 @@ redirect_from:
 
 Education
 ======
-* **PhD in Machine Learning for Information Retrieval, University of Amsterdam, 2016-2020**
+* **PhD in Machine Learning for Information Retrieval**, University of Amsterdam, 2016-2020
   * Received Cum Laude.
   * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
   * Promotor: [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
   * Thesis: [Learning from user interactions with rankings: A unification of the field](../publication/2021-phd-thesis)
-* **MSc in Artificial Intelligence, University of Amsterdam, 2014-2016**
+* **MSc in Artificial Intelligence**, University of Amsterdam, 2014-2016
   * Graduated Cum Laude with an average of 9.1.
   * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
-* **BSc in Artificial Intelligence, University of Amsterdam, 2011-2014**
+* **BSc in Artificial Intelligence**, University of Amsterdam, 2011-2014
   * Graduated Cum Laude and Cum Honore with an average of 8.3.
 
 Employment
@@ -41,21 +41,31 @@ Employment
 * 2013: **Research Intern** - National Aerospace Laboratory - Amsterdam, The Netherlands
   * Topic: autonomous flight with the AR.Drone
 
-  
-<!-- Skills
+Student Supervision
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD students:
+  * 2019-2023 (expected): Jin Huang - Bias Mitigation Methods for Sequential Recommendation
+  * 2021-2025 (expected): Norman Knyazev - Recommendation Algorithms
+
+Teaching
+======
+
+* 2018: Summer School Course - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
+  * Course title: Learning to Rank and Evaluation in the Online Setting
+* 2017-2018: Course Organizer - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
+  * Course title: Advanced Information Retrieval
+* 2016-2017: Invited Lectures - Google Brain - Mountain View, California, U.S.
+  * Topics: Online Learning to Rank and Deep Reinforcement Learning
+* 2012-2015: Teaching Assistant - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
+  * Topics: Introductary and Advanced Programming Courses
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<!-- 
   
 Talks
 ======
