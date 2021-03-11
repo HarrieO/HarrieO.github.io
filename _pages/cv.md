@@ -49,7 +49,6 @@ Student Supervision
 
 Teaching
 ======
-
 * 2018: **Summer School Course** - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
   * Course title: Learning to Rank and Evaluation in the Online Setting
 * 2017-2018: **Course Organizer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
@@ -59,9 +58,15 @@ Teaching
 * 2012-2015: **Teaching Assistant** - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
   * Topics: Introductary and Advanced Programming Courses
 
+Awards
+======
+* 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
+* 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
+
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
