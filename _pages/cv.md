@@ -25,19 +25,24 @@ Education
 * **BSc in Artificial Intelligence, University of Amsterdam, 2011-2014**
   * Graduated Cum Laude and Cum Honore with an average of 8.3.
 
-<!-- Employment
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-present: **Assistant Professor** (Tenure Track) - Radboud University - Nijmegen, The Netherlands
+* 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
+  * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
+* 2016-2020: **PhD Student** - University of Amsterdam - Amsterdam, The Netherlands
+* 2017: **Research Intern** - Google Brain - Mountain View, California, U.S
+  * Topic: Deep Reinforcement Learning for Recommendation
+* 2016: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
+  * Topic: Semi-supervised Machine Learning for Deep Image Labelling from weak-labeled data
+* 2015: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
+  * Topic: Automatic Video Summarization
+  * Publication: *[Semantic Video Trailers](../publication/2016-trailers)* presented at the ICML 2016 Workshop on Multi-View Representation Learning
+* 2013: **Research Intern** - National Aerospace Laboratory - Amsterdam, The Netherlands
+  * Topic: autonomous flight with the AR.Drone
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
