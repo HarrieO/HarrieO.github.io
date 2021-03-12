@@ -36,7 +36,6 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-
     {%- if post.youtube or post.slides or post.publication %}
         <p class="page__meta">[
         {%- if post.youtube -%}
@@ -48,7 +47,7 @@
             {% endif -%}
             <a href="{{ post.slides }}" rel="permalink">slides</a>
         {%- endif -%}
-        {%- if post.publication or -%}
+        {%- if post.publication -%}
             {%- if post.youtube or post.slides -%}
             ,
             {% endif -%}
