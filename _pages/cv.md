@@ -85,14 +85,14 @@ According to [my Google Scholar profile](https://scholar.google.com/citations?us
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- 
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+<!-- 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
