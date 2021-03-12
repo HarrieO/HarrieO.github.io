@@ -10,5 +10,3 @@ youtube:
 slides: /files/slides/2019-radboud-lecture.pdf
 publication: /publication/2019-sigir-tutorial
 ---
-
-Guest Lecture at Radboud University, Nijmegen, December 3rd, 2019
