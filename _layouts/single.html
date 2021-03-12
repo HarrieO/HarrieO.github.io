@@ -116,27 +116,6 @@ layout: default
         {% if page.externalvideo %}
           <p><a href="{{ page.externalvideo }}" rel="permalink">A video for this publication is available here.</a></p>
         {% endif %}
-
-
-        {% if page.slides %}
-            <div>
-              <object
-                data='{{ page.slides | strip }}'
-                type="application/pdf"
-                width="560"
-                height="315"
-              >
-                <iframe
-                  src='{{ page.slides | strip }}'
-                  width="560"
-                  height="315"
-                >
-                <p>This browser does not support PDF! Download the slides <a href="{{ page.slides }}">here</a> instead.</p>
-                </iframe>
-
-              </object>
-            </div>
-        {% endif %}
     
         </header>
       {% endunless %}
@@ -160,6 +139,26 @@ layout: default
 
         {% if page.citation %}
           <h3>Recommended citation:</h3><p>{{ page.citation }} </p>
+        {% endif %}
+
+        {% if page.slides %}
+            <div>
+              <object
+                data='{{ page.slides | strip }}'
+                type="application/pdf"
+                width="560"
+                height="315"
+              >
+                <iframe
+                  src='{{ page.slides | strip }}'
+                  width="560"
+                  height="315"
+                >
+                <p>This browser does not support PDF! Download the slides <a href="{{ page.slides }}">here</a> instead.</p>
+                </iframe>
+
+              </object>
+            </div>
         {% endif %}
 
       </section>
