@@ -52,6 +52,14 @@ layout: default
           <p><a href="{{ page.externalvideo }}" rel="permalink">A video for this talk is available here.</a></p>
         {% endif %}
 
+        {% if page.slides %}
+          <iframe src="{{ page.slides }}" width="560" height="315">
+        {% endif %}
+
+        {%- if page.publication -%}
+          <p><a href="{{ page.publication }}" rel="permalink">Click here for the publication this talk is based on.</a></p>
+        {%- endif -%}
+
         </header>
       {% endunless %}
 
