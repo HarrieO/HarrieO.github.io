@@ -53,8 +53,7 @@ layout: default
         {% endif %}
 
         {% if page.slides %}
-            <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url={{ page.slides | strip }}" width="560" height="315">
+            <embed src="{{ page.slides | strip }}" width="560" height="315">
         {% endif %}
 
         {%- if page.publication -%}
