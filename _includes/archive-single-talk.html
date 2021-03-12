@@ -38,25 +38,24 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
 
     {%- if post.youtube or post.slides or post.publication %}
-          <p class="page__meta">[
-          {%- endif -%}
-          {%- if post.youtube -%}
-              <a href="{{ post.youtube }}" rel="permalink">video</a>
-          {%- endif -%}
-          {%- if post.slides -%}
-              {%- if post.youtube -%}
-              ,
-              {% endif -%}
-              <a href="{{ post.slides }}" rel="permalink">slides</a>
-          {%- endif -%}
-          {%- if post.publication or -%}
-              {%- if post.youtube or post.slides -%}
-              ,
-              {% endif -%}
-              <a href="{{ post.publication }}" rel="permalink">publication</a>
-          {%- endif -%}
+        <p class="page__meta">[
+        {%- if post.youtube -%}
+            <a href="{{ post.youtube }}" rel="permalink">video</a>
+        {%- endif -%}
+        {%- if post.slides -%}
+            {%- if post.youtube -%}
+            ,
+            {% endif -%}
+            <a href="{{ post.slides }}" rel="permalink">slides</a>
+        {%- endif -%}
+        {%- if post.publication or -%}
+            {%- if post.youtube or post.slides -%}
+            ,
+            {% endif -%}
+            <a href="{{ post.publication }}" rel="permalink">publication</a>
+        {%- endif -%}
         ]</p>
-      {%- endif -%}
+    {%- endif -%}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
