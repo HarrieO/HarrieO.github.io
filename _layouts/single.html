@@ -102,6 +102,10 @@ layout: default
           </p>
         {% endif %}
 
+        {% if post.award %}
+        <p><img src="http://harrieo.github.io/images/award-icon.png" alt="Award Icon" width="30"/>This paper won the <i> {{ post.award }}.</i></p>
+        {% endif %}
+
         {% if page.youtube %}
           <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         {% endif %}
