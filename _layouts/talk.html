@@ -53,27 +53,23 @@ layout: default
         {% endif %}
 
         {% if page.slides %}
-            <iframe src="http://docs.google.com/gview?url=http:{{ page.slides | strip }}&embedded=true" style="width:560px; height:315px;" frameborder="0"></iframe>
-            <!-- <embed src="{{ page.slides | strip }}" width="560" height="315"> -->
-
             <div>
-      <object
-        data='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
-        type="application/pdf"
-        width="500"
-        height="678"
-      >
+              <object
+                data='{{ page.slides | strip }}'
+                type="application/pdf"
+                width="560"
+                height="315"
+              >
+                <iframe
+                  src='{{ page.slides | strip }}'
+                  width="560"
+                  height="315"
+                >
+                <p>This browser does not support PDF! Download the slides <a href="{{ page.slides }}">here</a> instead.</p>
+                </iframe>
 
-        <iframe
-          src='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
-          width="500"
-          height="678"
-        >
-        <p>This browser does not support PDF!</p>
-        </iframe>
-
-      </object>
-    </div>
+              </object>
+            </div>
         {% endif %}
 
         {%- if page.publication -%}
