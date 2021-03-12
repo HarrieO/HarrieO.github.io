@@ -13,7 +13,7 @@ youtube:
 codeurl: 
 ---
 
-<img src="http://harrieo.github.io/files/phdthesiscover.png" alt="PhD Thesis Cover" width="200"/>
+<img src="http://harrieo.github.io/files/phdthesiscover.png" alt="PhD Thesis Cover" width="250"/>
 
 Ranking systems form the basis for online search engines and recommendation services. They process large collections of items, for instance web pages or e-commerce products, and present the user with a small ordered selection. The goal of a ranking system is to help a user find the items they are looking for with the least amount of effort. Thus the rankings they produce should place the most relevant or preferred items at the top of the ranking. Learning to rank is a field within machine learning that covers methods which optimize ranking systems w.r.t. this goal. Traditional supervised learning to rank methods utilize expert-judgements to evaluate and learn, however, in many situations such judgements are impossible or infeasible to obtain. As a solution, methods have been introduced that perform learning to rank based on user clicks instead. The difficulty with clicks is that they are not only affected by user preferences, but also by what rankings were displayed. Therefore, these methods have to prevent being biased by other factors than user preference. This thesis concerns learning to rank methods based on user clicks and specifically aims to unify the different families of these methods.
 
