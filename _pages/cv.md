@@ -40,7 +40,7 @@ Employment
   * Publication: *[Semantic Video Trailers](../publication/2016-trailers)* presented at the ICML 2016 Workshop on Multi-View Representation Learning
 * 2013–2014: **Research and Development, Software Engineer** - MediaSynced - Amsterdam, The Netherlands.
 * 2013: **Research Intern** - National Aerospace Laboratory - Amsterdam, The Netherlands
-  * Topic: autonomous flight with the AR.Drone
+  * Topic: Autonomous flight with the AR.Drone
 
 Awards
 ======
@@ -64,23 +64,23 @@ Student Supervision
 
 Teaching
 ======
-* 2019-2020: *Lecturer* - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
+* 2019-2020: **Lecturer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Information Retrieval 1
 * 2018: **Summer School Course** - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
   * Course title: Learning to Rank and Evaluation in the Online Setting
 * 2017-2018: **Course Organizer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Advanced Information Retrieval
-* 2017-2018: *Lecturer* - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
+* 2017-2018: **Lecturer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Information Retrieval 1
 * 2016-2017: **Invited Lectures** - Google Brain - Mountain View, California, U.S.
   * Topics: Online Learning to Rank and Deep Reinforcement Learning
 * 2012-2015: **Teaching Assistant** - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
-  * Topics: Introductary and Advanced Programming Courses
+  * Topics: Introductory and Advanced Programming Courses
 
 
 Publications
 ======
-According to Google Scholar my publications have received over 280 citations and my h-index is 10, see [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) for the latests metrics.
+According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 280 citations and my h-index is 10.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
