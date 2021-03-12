@@ -31,8 +31,9 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      {%- if post.youtube or post.slides or post.publication -%}
-      <span class="page__meta">
+    </h2>
+    {%- if post.youtube or post.slides or post.publication -%}
+      <h3>
         [
         {%- if post.youtube -%}
             <a href="{{ post.youtube }}" rel="permalink">video</a>
@@ -49,9 +50,8 @@
             {% endif -%}
             <a href="{{ post.publication }}" rel="permalink">publication</a>
         {%- endif -%}
-        ] </span>
+        ] </h3>
     {%- endif -%}
-    </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
