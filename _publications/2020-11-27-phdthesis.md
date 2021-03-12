@@ -1,5 +1,5 @@
 ---
-title: "Learning from user interactions with rankings: A unification of the field"
+title: "Learning from User Interactions with Tankings: A Unification of the field"
 authors: "Harrie Oosterhuis"
 collection: publications
 permalink: /publication/2021-phd-thesis

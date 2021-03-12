@@ -60,7 +60,10 @@ Teaching
 
 Awards
 ======
+* 2020: **Best Paper Award** - ACM International Conference on Web Search and Data Mining (WSDM ’21) - Jerusalem, Israel (Online Event).
+  * Paper: [Unifying Online and Counterfactual Learning to Rank](../publication/2021-unifying)
 * 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
+  * Paper: [Optimizing Ranking Models in an Online Setting](../publication/2019-oltr-comparison)
 * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
 
 
