@@ -37,6 +37,21 @@ layout: default
         {% endif %}
         {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
 
+        {% if page.youtube %}
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+        {% endif %}
+
+        {% if page.othervideo %}
+          <video width="560" height="315" controls>
+            <source src="{{ page.othervideo }}" type="video/mp4">
+            <a href="{{ page.othervideo }}" rel="permalink">Watch the talk video here.</a>
+          </video><br>
+        {% endif %}
+
+        {% if page.externalvideo %}
+          <p><a href="{{ page.externalvideo }}" rel="permalink">A video for this talk is available here.</a></p>
+        {% endif %}
+
         </header>
       {% endunless %}
 

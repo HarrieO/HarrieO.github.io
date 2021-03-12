@@ -32,7 +32,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {%- if post.youtube or post.slides or post.publication -%}
+    {% if post.youtube or post.slides or post.publication -%}
       <p style="display: inline;">
         &emsp;
         [
