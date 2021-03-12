@@ -31,8 +31,8 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      {%- if post.youtube or post.slides or post.publication -%}
-        <p>[
+      {% if post.youtube or post.slides or post.publication -%}
+        [
         {%- if post.youtube -%}
             <a href="{{ post.youtube }}" rel="permalink">video</a>
         {%- endif -%}
@@ -48,7 +48,7 @@
             {% endif -%}
             <a href="{{ post.publication }}" rel="permalink">publication</a>
         {%- endif -%}
-        ]</p>
+        ]
     {%- endif -%}
     </h2>
     {% if post.read_time %}
