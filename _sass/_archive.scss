@@ -53,6 +53,19 @@
   }
 }
 
+.archive__item-title-link {
+  margin-bottom: 0.25em;
+  font-family: $sans-serif-narrow;
+  color: $dark-gray;
+
+  &:any-link{
+    color: $dark-gray;
+  }
+  a + a {
+    opacity: 0.5;
+  }
+}
+
 /* remove border*/
 .page__content {
 
