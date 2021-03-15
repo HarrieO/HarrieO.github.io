@@ -64,6 +64,8 @@ Student Supervision
 
 Teaching
 ======
+* 2020-2021: **Invited Speaker** - MSc Artificial Intelligence - Radboud University, Nijmegen, The Netherlands
+  * Course title: Information Retrieval
 * 2019-2020: **Lecturer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Information Retrieval 1
 * 2018: **Summer School Course** - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
