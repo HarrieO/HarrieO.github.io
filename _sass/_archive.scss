@@ -42,7 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  color: mix(#fff, $black, 25%);
+  color: $dark-gray;
 
   a + a {
     opacity: 0.5;
