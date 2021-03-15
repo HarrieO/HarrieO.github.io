@@ -18,7 +18,7 @@ Education
   * Received Cum Laude.
   * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
   * Promotor: [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
-  * Thesis: [Learning from user interactions with rankings: A unification of the field](../publication/2021-phd-thesis)
+  * Thesis: [Learning from User Interactions with Rankings: A Unification of the Field](../publication/2021-phd-thesis)
 * **MSc in Artificial Intelligence**, University of Amsterdam, 2014-2016
   * Graduated Cum Laude with an average of 9.1.
   * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
