@@ -44,6 +44,10 @@
   font-family: $sans-serif-narrow;
   color: $dark-gray;
 
+  &:any-link{
+    color: $dark-gray;
+  }
+
   a + a {
     opacity: 0.5;
   }
