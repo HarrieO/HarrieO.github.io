@@ -42,7 +42,7 @@ layout: default
           <b>{{ page.authors | markdownify | remove: "<p>" | remove: "</p>" }}</b></br>
           {% endif %}
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}.
-          {%- if page.paperurl or page.codeurl or post.slides or post.tutorialwebsite %}
+         {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.pageer  %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -54,25 +54,49 @@ layout: default
               {% endif -%}
               <a href="{{ page.codeurl }}" rel="permalink">code</a>
           {%- endif -%}
-          {%- if post.slides -%}
-              {%- if post.paperurl or post.codeurl -%}
+          {%- if page.youtube -%}
+              {%- if page.paperurl or page.codeurl -%}
               ,
               {% endif %}
-              <a href="{{ post.slides }}" rel="permalink">slides</a>
+              <a href="https://www.youtube.com/watch?v={{ page.youtube }}" rel="permalink">video</a>
           {%- endif -%}
-          {%- if post.tutorialwebsite -%}
-              {%- if post.paperurl or post.codeurl or post.slides -%}
+          {%- if page.othervideo -%}
+              {%- if page.paperurl or page.codeurl or page.youtube -%}
               ,
               {% endif %}
-              <a href="{{ post.tutorialwebsite }}" rel="permalink">website</a>
+              <a href="{{ page.othervideo }}" rel="permalink">video</a>
           {%- endif -%}
-          {%- if page.paperurl or page.codeurl or post.slides or post.tutorialwebsite -%}
+          {%- if page.externalvideo -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.externalvideo }}" rel="permalink">external video</a>
+          {%- endif -%}
+          {%- if page.slides -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.externalvideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.slides }}" rel="permalink">slides</a>
+          {%- endif -%}
+          {%- if page.pageer -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.pageer }}" rel="permalink">pageer</a>
+          {%- endif -%}
+          {%- if page.tutorialwebsite -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.pageer -%}
+              ,
+              {% endif %}
+              <a href="{{ page.tutorialwebsite }}" rel="permalink">website</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.poster -%}
           ]
           {%- endif -%}
           </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
-          {%- if page.paperurl or page.codeurl or post.slides or tutorialwebsite.slides -%}
+          {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.pageer  %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -84,19 +108,43 @@ layout: default
               {% endif -%}
               <a href="{{ page.codeurl }}" rel="permalink">code</a>
           {%- endif -%}
-          {%- if post.slides -%}
-              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo -%}
+          {%- if page.youtube -%}
+              {%- if page.paperurl or page.codeurl -%}
               ,
               {% endif %}
-              <a href="{{ post.slides }}" rel="permalink">slides</a>
+              <a href="https://www.youtube.com/watch?v={{ page.youtube }}" rel="permalink">video</a>
           {%- endif -%}
-          {%- if post.tutorialwebsite -%}
-              {%- if post.paperurl or post.codeurl or post.youtube or post.othervideo or post.slides -%}
+          {%- if page.othervideo -%}
+              {%- if page.paperurl or page.codeurl or page.youtube -%}
               ,
               {% endif %}
-              <a href="{{ post.tutorialwebsite }}" rel="permalink">website</a>
+              <a href="{{ page.othervideo }}" rel="permalink">video</a>
           {%- endif -%}
-          {%- if page.paperurl or page.codeurl or post.slides or tutorialwebsite.slides -%}
+          {%- if page.externalvideo -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.externalvideo }}" rel="permalink">external video</a>
+          {%- endif -%}
+          {%- if page.slides -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.externalvideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.slides }}" rel="permalink">slides</a>
+          {%- endif -%}
+          {%- if page.pageer -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo -%}
+              ,
+              {% endif %}
+              <a href="{{ page.pageer }}" rel="permalink">pageer</a>
+          {%- endif -%}
+          {%- if page.tutorialwebsite -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.pageer -%}
+              ,
+              {% endif %}
+              <a href="{{ page.tutorialwebsite }}" rel="permalink">website</a>
+          {%- endif -%}
+          {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.poster -%}
           ]
           {%- endif -%}
           </p>
