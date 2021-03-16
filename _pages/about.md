@@ -14,6 +14,8 @@ In particular, I focus on methods that correct for the effects of interaction bi
 
 For the latest news about me or my research check out [my Twitter](https://twitter.com/HarrieOos). <!-- or [my blog posts](year-archive). -->
 
+<a class="twitter-timeline" data-height="400" data-dnt="true" href="https://twitter.com/HarrieOos?ref_src=twsrc%5Etfw">Tweets by HarrieOos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 My Research Topics
 ------
