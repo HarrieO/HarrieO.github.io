@@ -20,7 +20,7 @@ For the latest news about me or my research check out [my Twitter](https://twitt
 My Research Topics
 ------
 I'm passionate about research in **Machine Learning** and **Information Retrieval**; in particular how search and recommendation systems can learn from user interactions.
-While the goals of these systems is often to follow users' preferences, the interactions of users are often affected by many other factors: e.g. what items are shown, the order in which they are shown, etc.
+While the goals of these systems is often to follow users' preferences, the interactions of users are usually very affected by many other factors: e.g. what items are shown, the order in which they are shown, etc.
 As a result, these methods have to correct for these _interaction biases_.
 My research often uses theoretical methods for counterfactual estimation with machine learning approaches to optimize ranking systems.
 
