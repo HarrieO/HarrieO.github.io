@@ -66,10 +66,14 @@ Teaching
 ======
 * 2020-2021: **Invited Speaker** - MSc Artificial Intelligence - Radboud University, Nijmegen, The Netherlands
   * Course title: Information Retrieval
+* 2019: **Invited Speaker** - JTC College - Roosendaal, The Netherlands
+  * Talk title: Artificial Intelligence and Algorithms
 * 2019-2020: **Lecturer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Information Retrieval 1
 * 2018: **Summer School Course** - Russian Summer School in Information Retrieval 2018 (RuSSIR ’18) - Kazan, Russia
   * Course title: Learning to Rank and Evaluation in the Online Setting
+* 2018: **Invited Speaker** - Nemo Science Museum - Amsterdam, The Netherlands
+  * Talk title: [How does YouTube know what I like?](https://www.nemosciencemuseum.nl/nl/wat-is-er-te-doen/activiteiten/kinderlezingen/hoe-weet-youtube-wat-ik-leuk-vind/)
 * 2017-2018: **Course Organizer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
   * Course title: Advanced Information Retrieval
 * 2017-2018: **Lecturer** - MSc Artificial Intelligence - University of Amsterdam, Amsterdam, The Netherlands
