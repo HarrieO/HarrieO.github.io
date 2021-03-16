@@ -132,7 +132,10 @@ layout: default
           <p><a href="{{ page.paperurl }}" rel="permalink">Download the paper here.</a></p>
         {%- endif -%}
         {%- if page.slides -%}
-          <p><a href="{{ page.tutorialwebsite }}" rel="permalink">Download the presentation slides here.</a></p>
+          <p><a href="{{ page.slides }}" rel="permalink">Download the presentation slides here.</a></p>
+        {%- endif -%}
+        {%- if page.poster -%}
+          <p><a href="{{ page.poster }}" rel="permalink">View the poster for this publication here.</a></p>
         {%- endif -%}
         {%- if page.codeurl -%}
           <p><a href="{{ page.codeurl }}" rel="permalink">Code is available here.</a></p>
