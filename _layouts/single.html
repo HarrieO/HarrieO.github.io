@@ -42,7 +42,7 @@ layout: default
           <b>{{ page.authors | markdownify | remove: "<p>" | remove: "</p>" }}</b></br>
           {% endif %}
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}.
-         {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.pageer  %}
+         {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.poster  %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -78,14 +78,14 @@ layout: default
               {% endif %}
               <a href="{{ page.slides }}" rel="permalink">slides</a>
           {%- endif -%}
-          {%- if page.pageer -%}
+          {%- if page.poster -%}
               {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo -%}
               ,
               {% endif %}
-              <a href="{{ page.pageer }}" rel="permalink">pageer</a>
+              <a href="{{ page.poster }}" rel="permalink">poster</a>
           {%- endif -%}
           {%- if page.tutorialwebsite -%}
-              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.pageer -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.poster -%}
               ,
               {% endif %}
               <a href="{{ page.tutorialwebsite }}" rel="permalink">website</a>
@@ -96,7 +96,7 @@ layout: default
           </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
-          {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.pageer  %}
+          {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.tutorialwebsite or page.externalvideo or page.poster  %}
           [
           {%- endif -%}
           {%- if page.paperurl -%}
@@ -132,14 +132,14 @@ layout: default
               {% endif %}
               <a href="{{ page.slides }}" rel="permalink">slides</a>
           {%- endif -%}
-          {%- if page.pageer -%}
+          {%- if page.poster -%}
               {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo -%}
               ,
               {% endif %}
-              <a href="{{ page.pageer }}" rel="permalink">pageer</a>
+              <a href="{{ page.poster }}" rel="permalink">poster</a>
           {%- endif -%}
           {%- if page.tutorialwebsite -%}
-              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.pageer -%}
+              {%- if page.paperurl or page.codeurl or page.youtube or page.othervideo or page.slides or page.externalvideo or page.poster -%}
               ,
               {% endif %}
               <a href="{{ page.tutorialwebsite }}" rel="permalink">website</a>
