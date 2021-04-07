@@ -46,7 +46,7 @@ Grants and Awards
 ======
 * 2021: **The Google Research Scholar Award** - [The Google Research Scholar Program](https://research.google/outreach/research-scholar-program/recipients/).
   * Proposal title: Search and Recommendation Systems that Learn from Diverse User Preferences
-  * Amount: $60,000 USD
+  * Funding amount: $60,000 USD
 * 2021: **Best Paper Award** - ACM International Conference on Web Search and Data Mining (WSDM ’21) - Jerusalem, Israel (Online Event).
   * Paper: [Unifying Online and Counterfactual Learning to Rank](../publication/2021-unifying)
 * 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
