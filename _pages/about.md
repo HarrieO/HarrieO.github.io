@@ -12,10 +12,7 @@ I am an assistant professor at the [Data Science Group](https://www.ru.nl/datasc
 My research lies on the intersection of machine learning and information retrieval, it primarily concerns learning from user interactions on rankings.
 In particular, I focus on methods that correct for the effects of interaction biases.
 
-For the latest news about me or my research check out [my Twitter](https://twitter.com/HarrieOos): <!-- or [my blog posts](year-archive). -->
-
-<a class="twitter-timeline" data-height="400" data-dnt="true" href="https://twitter.com/HarrieOos?ref_src=twsrc%5Etfw">Tweets by HarrieOos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+For the latest news about me or my research check out [my Twitter](https://twitter.com/HarrieOos). <!-- or [my blog posts](year-archive). -->
 
 My Research Topics
 ------
@@ -43,3 +40,7 @@ Personal Mission
 Besides my passion for research, I also find it very important to create a healthy and welcoming working environment for researchers and students.
 Through discussion groups and personal mentoring, I have dedicated myself to help students feel appreciated and stimulate a healthy attitude towards their research and education.
 I hope that this contributes to an environment where students and researchers of every background feel welcome and appreciated.
+
+Twitter Feed
+------
+<a class="twitter-timeline" data-height="1200" data-dnt="true" href="https://twitter.com/HarrieOos?ref_src=twsrc%5Etfw">Tweets by HarrieOos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
