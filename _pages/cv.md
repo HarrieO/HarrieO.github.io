@@ -44,6 +44,8 @@ Employment
 
 Grants and Awards
 ======
+* 2021: **Best Paper Award** - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21)  - Montreal, Canada (Online Event).
+  * Paper: [Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness](../publication/2021-plrank)
 * 2021: **The Google Research Scholar Award** - [The Google Research Scholar Program](https://research.google/outreach/research-scholar-program/recipients/).
   * Proposal title: Search and Recommendation Systems that Learn from Diverse User Preferences
   * Funding amount: $60,000 USD
@@ -89,7 +91,7 @@ Teaching
 
 Publications
 ======
-According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 280 citations and my h-index is 10.
+According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 300 citations and my h-index is 10.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
