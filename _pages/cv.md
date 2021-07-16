@@ -60,7 +60,8 @@ Student Supervision
 ======
 * PhD students:
   * 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
-  * 2021-2025 (expected): **Norman Knyazev** - Recommendation Algorithms
+  * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
+  * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
 * MSc students:
   * 2018–2019 **Jasper Adema** - MSc Data Science, University of Amsterdam - Job Recommender Systems for Welfare Beneficiaries
   * 2018–2019 **Stijn Uijen** - MSc Data Science, University of Amsterdam - Unsupervised Error Detection in Accounting Data: A Data-driven Audit Approach
