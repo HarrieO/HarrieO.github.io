@@ -10,7 +10,7 @@ paperurl: http://harrieo.github.io/files/2021-ijcai-abstract.pdf
 citation: "H. Oosterhuis and M. de Rijke. &quot;Unifying Online and Counterfactual Learning to Rank (Extended Abstract).&quot; In <i>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence</i>. International Joint Conferences on Artificial Intelligence, 2021."
 youtube: l7kRwcppfFc
 codeurl: https://github.com/HarrieO/2021wsdm-unifying-LTR
-award: "WSDM’21 Best Paper Award"
+award: 
 slides: /files/slides/2021-wsdm.pdf
 poster: /files/posters/2021-wsdm-poster.pdf
 ---
