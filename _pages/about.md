@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [Data Science Group](https://www.ru.nl/datascience/) of the [Institute of Computing and Information Sciences (iCIS)](https://www.ru.nl/icis/) of the [Radboud University](https://www.ru.nl/english/).
+I am an assistant professor at the [Data Science Group](https://www.ru.nl/datascience/) of the [Institute of Computing and Information Sciences (iCIS)](https://www.ru.nl/icis/) of the [Radboud University](https://www.ru.nl/english/) and a staff machine learning researcher at [Twitter](https://www.twitter.com).
 My research lies on the intersection of machine learning and information retrieval, it primarily concerns learning from user interactions on rankings.
 In particular, I focus on methods that correct for the effects of interaction biases.
 

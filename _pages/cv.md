@@ -27,6 +27,7 @@ Education
 
 Employment
 ======
+* 2021-present: **Staff ML Researcher** - Twitter - Remote
 * 2020-present: **Assistant Professor** (Tenure Track) - Radboud University - Nijmegen, The Netherlands
 * 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
   * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
@@ -62,15 +63,21 @@ Student Supervision
   * 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
   * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
   * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
-* MSc students:
+<!-- * MSc students:
   * 2018–2019 **Jasper Adema** - MSc Data Science, University of Amsterdam - Job Recommender Systems for Welfare Beneficiaries
   * 2018–2019 **Stijn Uijen** - MSc Data Science, University of Amsterdam - Unsupervised Error Detection in Accounting Data: A Data-driven Audit Approach
 * BSc students:
-  * 2018–2019 **David Vos** - BSc Artificial Intelligence, University of Amsterdam - Automating a Weekly Newsletter for News Article Recommendations
+  * 2018–2019 **David Vos** - BSc Artificial Intelligence, University of Amsterdam - Automating a Weekly Newsletter for News Article Recommendations -->
 
 Teaching
 ======
-* 2020-2021: **Invited Speaker** - MSc Artificial Intelligence - Radboud University, Nijmegen, The Netherlands
+* 2021-2022: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
+  * Course title: Machine Learning in Practice
+* 2021-2022: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
+  * Course title: Information Retrieval
+* 2020-2021: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
+  * Course title: Machine Learning in Practice
+* 2020-2021: **Invited Speaker** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
   * Course title: Information Retrieval
 * 2019: **Invited Speaker** - JTC College - Roosendaal, The Netherlands
   * Talk title: Artificial Intelligence and Algorithms
