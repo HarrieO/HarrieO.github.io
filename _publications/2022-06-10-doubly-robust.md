@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2022-doubly-robust
 excerpt: "In this paper, we introduce a novel DR estimator that is the first DR approach specifically designed for position-bias. The difficulty with position bias is that the treatment – user examination – is not directly observable in click data. As a solution, our estimator uses the expected treatment per rank, instead of the actual treatment that existing DR estimators use."
 date: 2022-06-10
-venue: 'Arxiv Preprint (Currently Under Review Elsewhere)'
+venue: 'Arxiv Preprint (currently under review elsewhere)'
 paperurl: http://harrieo.github.io/files/2022-doubly-robust.pdf
 citation: "H. Oosterhuis. &quot;Learning-to-Rank at the Speed of Sampling: Plackett-Luce Gradient Estimation With Minimal Computational Complexity.&quot; arXiv preprint arXiv:2203.17118 (2022)."
 youtube: 
