@@ -8,11 +8,11 @@ date: 2022-07-12
 venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)'
 paperurl: http://harrieo.github.io/files/2022-sigir-short.pdf
 citation: "H. Oosterhuis. &quot;Learning-to-Rank at the Speed of Sampling: Plackett-Luce Gradient Estimation With Minimal Computational Complexity.&quot; In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. ACM, 2022."
-youtube: 
+youtube: K-5nruyS6Fg
 codeurl: https://github.com/HarrieO/2022-SIGIR-plackett-luce
 othervideo:
 tutorialwebsite: 
-slides: 
+slides: /files/slides/2022-sigir-short.pdf
 ---
 
 Plackett-Luce gradient estimation enables the optimization of stochastic ranking models within feasible time constraints through sampling techniques. Unfortunately, the computational complexity of existing methods does not scale well with the length of the rankings, i.e. the ranking cutoff, nor with the item collection size.
