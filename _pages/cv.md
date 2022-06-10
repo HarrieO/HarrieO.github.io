@@ -57,12 +57,11 @@ Grants and Awards
 * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
 
 
-Student Supervision
+PhD Candidate Supervision
 ======
-* PhD students:
-  * 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
-  * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
-  * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
+* 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
+* 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
+* 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
 
 Teaching
 ======
