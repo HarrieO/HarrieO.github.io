@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2022-ictir-future-unbiased
 excerpt: "This work aims to uncover the implicit limitations of the high-level prevalent approach in the counterfactual LTR field. Thus, in contrast with limitations that follow from explicit assumptions, our aim is to recognize limitations that the field is currently unaware of."
 date: 2022-07-12
-venue: 'Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR `22)'
+venue: 'Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22)'
 paperurl: http://harrieo.github.io/files/2022-ictir-future-unbiased.pdf
 citation: "H. Oosterhuis. &quot;Reaching the End of Unbiasedness: Uncovering Implicit Limitations of Click-Based Learning to Rank.&quot; In <i>Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval</i>. ACM, 2022."
 youtube: 
