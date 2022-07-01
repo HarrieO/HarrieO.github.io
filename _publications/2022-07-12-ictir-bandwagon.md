@@ -6,7 +6,7 @@ permalink: /publication/2022-ictir-bandwagon
 excerpt: "We argue that the bandwagon effect should not be seen as a problem of statistical bias. In fact, we prove that this effect leaves both individual interactions and their sample mean unbiased. Nevertheless, we show that it can make estimators inconsistent, introducing a distinct set of problems for convergence in relevance estimation."
 date: 2022-07-12
 venue: 'Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22)'
-paperurl: http://harrieo.github.io/files/2022-ictir-future-unbiased.pdf
+paperurl: http://harrieo.github.io/files/2022-ictir-bandwagon.pdf
 citation: "N. Knyazev and H. Oosterhuis. &quot;The Bandwagon Effect: Not Just Another Bias.&quot; In <i>Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval</i>. ACM, 2022."
 youtube: 
 award: 
