@@ -9,7 +9,7 @@ venue: 'Proceedings of the 2022 ACM SIGIR International Conference on the Theory
 paperurl: http://harrieo.github.io/files/2022-ictir-future-unbiased.pdf
 citation: "H. Oosterhuis. &quot;Reaching the End of Unbiasedness: Uncovering Implicit Limitations of Click-Based Learning to Rank.&quot; In <i>Proceedings of the 2022 ACM SIGIR International Conference on the Theory of Information Retrieval</i>. ACM, 2022."
 youtube: 
-award: 
+award: "ICTIR ’22 Best Paper Award"
 codeurl: 
 slides: 
 ---
