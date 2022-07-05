@@ -13,6 +13,7 @@ codeurl: https://github.com/HarrieO/2022-SIGIR-plackett-luce
 othervideo:
 tutorialwebsite: 
 slides: /files/slides/2022-sigir-short.pdf
+poster: /files/posters/2022-sigir-poster.pdf
 ---
 
 Plackett-Luce gradient estimation enables the optimization of stochastic ranking models within feasible time constraints through sampling techniques. Unfortunately, the computational complexity of existing methods does not scale well with the length of the rankings, i.e. the ranking cutoff, nor with the item collection size.
