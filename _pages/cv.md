@@ -45,15 +45,21 @@ Employment
 
 Grants and Awards
 ======
-* 2021: **Best Paper Award** - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21)  - Montreal, Canada (Online Event).
+* 2022: **Best Paper Award** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22) - Madrid, Spain.
+  * Paper: [Reaching the End of Unbiasedness: Uncovering Implicit Limitations of Click-Based Learning to Rank](../publication/2022-ictir-future-unbiased)
+  * Author: Harrie Oosterhuis (solo-author)
+* 2021: **Best Paper Award** - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21) - Montreal, Canada (Online Event).
   * Paper: [Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness](../publication/2021-plrank)
+  * Author: Harrie Oosterhuis (solo-author)
 * 2021: **The Google Research Scholar Award** - [The Google Research Scholar Program](https://research.google/outreach/research-scholar-program/recipients/).
   * Proposal title: Search and Recommendation Systems that Learn from Diverse User Preferences
   * Funding amount: $60,000 USD
 * 2021: **Best Paper Award** - ACM International Conference on Web Search and Data Mining (WSDM ’21) - Jerusalem, Israel (Online Event).
   * Paper: [Unifying Online and Counterfactual Learning to Rank](../publication/2021-unifying)
+  * Author: Harrie Oosterhuis and Maarten de Rijke
 * 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
   * Paper: [Optimizing Ranking Models in an Online Setting](../publication/2019-oltr-comparison)
+  * Author: Harrie Oosterhuis and Maarten de Rijke
 * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
 
 
