@@ -56,10 +56,10 @@ Grants and Awards
   * Funding amount: $60,000 USD
 * 2021: **Best Paper Award** - ACM International Conference on Web Search and Data Mining (WSDM ’21) - Jerusalem, Israel (Online Event).
   * Paper: [Unifying Online and Counterfactual Learning to Rank](../publication/2021-unifying)
-  * Author: Harrie Oosterhuis and Maarten de Rijke
+  * Authors: Harrie Oosterhuis and Maarten de Rijke
 * 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
   * Paper: [Optimizing Ranking Models in an Online Setting](../publication/2019-oltr-comparison)
-  * Author: Harrie Oosterhuis and Maarten de Rijke
+  * Authors: Harrie Oosterhuis and Maarten de Rijke
 * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
 
 
