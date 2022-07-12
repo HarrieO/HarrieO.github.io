@@ -11,7 +11,7 @@ citation: "H. Oosterhuis. &quot;Reaching the End of Unbiasedness: Uncovering Imp
 youtube: 
 award: "ICTIR ’22 Best Paper Award"
 codeurl: 
-slides: 
+slides: /files/slides/2022-ictir.pdf
 ---
 
 Click-based learning to rank (LTR) tackles the mismatch between click frequencies on items and their actual relevance. The approach of previous work has been to assume a model of click behavior and to subsequently introduce a method for unbiasedly estimating preferences under that assumed model. The success of this approach is evident in that unbiased methods have been found for an increasing number of behavior models and types of bias.
