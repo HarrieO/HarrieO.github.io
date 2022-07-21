@@ -1,13 +1,13 @@
 ---
 title: "To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions"
-authors: "Harrie Oosterhuis, Rolf Jagerman and Maarten de Rijke"
+authors: "Rolf Jagerman, Harrie Oosterhuis and Maarten de Rijke"
 collection: publications
 permalink: /publication/2019-comparison
 excerpt: "Learning to Rank (LTR) from user interactions is challenging as user feedback often contains high levels of bias and noise. At the moment, two methodologies for dealing with bias prevail in the field of LTR: counterfactual methods that learn from historical data and model user behavior to deal with biases; and online methods that perform interventions to deal with bias but use no explicit user models."
 date: 2019-07-21
 venue: 'Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’19)'
 paperurl: http://harrieo.github.io/files/2019-comparison.pdf
-citation: "H. Oosterhuis, R. Jagerman, M. de Rijke. &quot;To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions.&quot; In <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. ACM, 2019."
+citation: "R. Jagerman, H. Oosterhuis and M. de Rijke. &quot;To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions.&quot; In <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. ACM, 2019."
 youtube:
 codeurl: https://github.com/rjagerman/sigir2019-user-interactions
 othervideo:
