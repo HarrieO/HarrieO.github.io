@@ -99,7 +99,7 @@ Teaching
 
 Publications
 ======
-According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 300 citations and my h-index is 10.
+According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 600 citations and my h-index is 15.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
