@@ -12,7 +12,7 @@ youtube:
 codeurl: https://github.com/HarrieO/2022-doubly-robust-LTR
 othervideo:
 tutorialwebsite: 
-slides: 
+slides: https://docs.google.com/presentation/d/e/2PACX-1vTmY6lVQrPOb3TmpNhAIj5FuLXHC6JXCZCdr5eWtX5S3fLkS3T_WmZOP6uCX-Ko7L3VoKvMqh8pPDW-/pub?start=false&loop=false&delayms=3000
 ---
 
 
