@@ -7,7 +7,7 @@ excerpt: "In this paper, we introduce a novel DR estimator that is the first DR 
 date: 2023-01-01
 venue: 'Arxiv Preprint (accepted at the TOIS journal)'
 paperurl: http://harrieo.github.io/files/2023-doubly-robust.pdf
-citation: "H. Oosterhuis. &quot;Doubly-Robust Estimation for Correcting Position-Bias in Click Feedback for Unbiased Learning to Rank.&quot; arXiv preprint arXiv:2203.17118 (2022)."
+citation: "H. Oosterhuis. &quot;Doubly-Robust Estimation for Correcting Position-Bias in Click Feedback for Unbiased Learning to Rank.&quot; ACM Transactions on Information Systems 41.3 (2023): 1-33."
 youtube: 
 codeurl: https://github.com/HarrieO/2022-doubly-robust-LTR
 othervideo:
