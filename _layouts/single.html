@@ -215,6 +215,11 @@ layout: default
               </object>
             </div>
         {% endif %}
+        {% if page.slides and "docs.google.com/presentation/" in page.slides %}
+            <div>
+              <iframe src='{{ page.slides | strip }}' frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            </div>
+        {% endif %}
 
       </section>
 
