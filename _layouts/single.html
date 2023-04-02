@@ -196,7 +196,7 @@ layout: default
           <h3>Recommended citation:</h3><p>{{ page.citation }} </p>
         {% endif %}
 
-        {% if page.slides %}
+        {% if page.slides and page.slides.lower|slice:"-4:" == ".pdf" %}
             <div>
               <object
                 data='{{ page.slides | strip }}'
