@@ -196,29 +196,30 @@ layout: default
           <h3>Recommended citation:</h3><p>{{ page.citation }} </p>
         {% endif %}
 
-        {% if page.slides and page.slides.lower|slice:"-4:" == ".pdf" %}
-            <div>
-              <object
-                data='{{ page.slides | strip }}'
-                type="application/pdf"
-                width="560"
-                height="315"
-              >
-                <iframe
-                  src='{{ page.slides | strip }}'
-                  width="560"
-                  height="315"
-                >
-                <p>This browser does not support PDF! Download the slides <a href="{{ page.slides }}">here</a> instead.</p>
-                </iframe>
-
-              </object>
-            </div>
-        {% endif %}
         {% if page.googleslidesembed %}
             <div>
               <iframe src="{{ page.googleslidesembed | strip }}" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </div>
+        {% else %}
+          {% if page.slides and page.slides.lower|slice:"-4:" == ".pdf" %}
+              <div>
+                <object
+                  data='{{ page.slides | strip }}'
+                  type="application/pdf"
+                  width="560"
+                  height="315"
+                >
+                  <iframe
+                    src='{{ page.slides | strip }}'
+                    width="560"
+                    height="315"
+                  >
+                  <p>This browser does not support PDF! Download the slides <a href="{{ page.slides }}">here</a> instead.</p>
+                  </iframe>
+
+                </object>
+              </div>
+          {% endif %}
         {% endif %}
 
       </section>
