@@ -201,7 +201,7 @@ layout: default
               <iframe src="{{ page.googleslidesembed | strip }}" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </div>
         {% else %}
-          {% if page.slides and page.slides.lower|slice:"-4:" == ".pdf" %}
+          {% if page.slides %}
               <div>
                 <object
                   data='{{ page.slides | strip }}'
