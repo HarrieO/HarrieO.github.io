@@ -27,8 +27,8 @@ Education
 
 Employment
 ======
-* 2021-present: **Staff ML Researcher** - Twitter - Remote
 * 2020-present: **Assistant Professor** (Tenure Track) - Radboud University - Nijmegen, The Netherlands
+* 2022: **Staff ML Researcher** - Twitter - Remote
 * 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
   * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
 * 2016-2020: **PhD Student** - University of Amsterdam - Amsterdam, The Netherlands
@@ -71,6 +71,10 @@ PhD Candidate Supervision
 
 Teaching
 ======
+* 2022-2023: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
+  * Course title: Machine Learning in Practice
+* 2022-2023: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
+  * Course title: Information Retrieval
 * 2021-2022: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
   * Course title: Machine Learning in Practice
 * 2021-2022: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
