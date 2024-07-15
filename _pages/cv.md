@@ -12,19 +12,6 @@ redirect_from:
 <h1 style="text-align: center;"> Harrie Oosterhuis </h1>
 <p style="text-align: center;"> Curriculum Vitae  </p>
 
-Education
-======
-* **PhD in Machine Learning for Information Retrieval**, University of Amsterdam, 2016-2020
-  * Received Cum Laude.
-  * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
-  * Promotor: [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
-  * Thesis: [Learning from User Interactions with Rankings: A Unification of the Field](../publication/2021-phd-thesis)
-* **MSc in Artificial Intelligence**, University of Amsterdam, 2014-2016
-  * Graduated Cum Laude with an average of 9.1.
-  * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
-* **BSc in Artificial Intelligence**, University of Amsterdam, 2011-2014
-  * Graduated Cum Laude and Cum Honore with an average of 8.3.
-
 Employment
 ======
 * 2020-present: **Assistant Professor** - Radboud University - Nijmegen, The Netherlands
@@ -34,18 +21,37 @@ Employment
   * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
 * 2016-2020: **PhD Student** - University of Amsterdam - Amsterdam, The Netherlands
 * 2017: **Research Intern** - Google Brain - Mountain View, California, U.S
-  * Topic: Deep Reinforcement Learning for Recommendation
 * 2016: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
-  * Topic: Semi-supervised Machine Learning for Deep Image Labelling from weak-labeled data
 * 2015: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
-  * Topic: Automatic Video Summarization
   * Publication: *[Semantic Video Trailers](../publication/2016-trailers)* presented at the ICML 2016 Workshop on Multi-View Representation Learning
 * 2013–2014: **Research and Development, Software Engineer** - MediaSynced - Amsterdam, The Netherlands.
 * 2013: **Research Intern** - National Aerospace Laboratory - Amsterdam, The Netherlands
-  * Topic: Autonomous flight with the AR.Drone
+
+Education
+======
+* **PhD in Machine Learning for Information Retrieval**, University of Amsterdam, 2016-2020
+  * Received Cum Laude.
+  * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
+  * Promotor: [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
+  * Thesis: [Learning from User Interactions with Rankings: A Unification of the Field](../publication/2021-phd-thesis)
+  * My thesis won an [Andreas Bonn medal](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) in 2024.
+* **MSc in Artificial Intelligence**, University of Amsterdam, 2014-2016
+  * Graduated Cum Laude with an average of 9.1.
+  * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
+* **BSc in Artificial Intelligence**, University of Amsterdam, 2011-2014
+  * Graduated Cum Laude and Cum Honore with an average of 8.3.
 
 Grants and Awards
 ======
+* 2024: **Andreas Bonn Medal** - [Het Genootschap ter bevordering van Natuur-, Genees- en Heelkunde](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) - Amsterdam, The Netherlands
+  * Award received for PhD thesis: _[Learning from user interactions with rankings: A unification of the field](https://harrieo.github.io//publication/2021-phd-thesis)_
+  * Funding amount: €1.000 EUR
+* 2023: **Radboud Science Award** - [Wetenschapsknooppunt Radboud University](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) - Nijmegen, The Netherlands
+  * Proposal title: Zoekende computers
+  * Funding amount: €5.000 EUR
+* 2023: **Veni Grant** - [NWO Talent Programme](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) - .
+  * Proposal title: Search Systems with a Bayesian Understanding of Their Users (BAYES-SEARCH)
+  * Funding amount: €280.000 EUR
 * 2022: **Best Paper Award** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22) - Madrid, Spain.
   * Paper: [Reaching the End of Unbiasedness: Uncovering Implicit Limitations of Click-Based Learning to Rank](../publication/2022-ictir-future-unbiased)
   * Author: Harrie Oosterhuis (solo-author)
@@ -73,7 +79,7 @@ PhD Candidate Supervision
 (co-supervised with Maarten de Rijke).
 * 2023-2027 (expected): **Jingwei Kang** -  Full-Page Personalization for Recommendation
 (co-supervised with Maarten de Rijke).
-* 2023-2027 (expected): **Oscar 
+* 2024-2028 (expected): **Oscar 
 Ramirez Milian** - Bayesian Learning to Rank.
 
 Teaching
