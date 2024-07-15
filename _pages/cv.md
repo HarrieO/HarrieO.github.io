@@ -49,7 +49,7 @@ Grants and Awards
 * 2023: **Radboud Science Award** - [Wetenschapsknooppunt Radboud University](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) - Nijmegen, The Netherlands
   * Proposal title: Zoekende computers
   * Funding amount: €5.000 EUR
-* 2023: **Veni Grant** - [NWO Talent Programme](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) - The Netherlands.
+* 2023: **Veni Grant** - [NWO Talent Programme](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) (Round 2022) - The Netherlands.
   * Proposal title: Search Systems with a Bayesian Understanding of Their Users (BAYES-SEARCH)
   * Funding amount: €280.000 EUR
 * 2022: **Best Paper Award** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22) - Madrid, Spain.
@@ -69,6 +69,12 @@ Grants and Awards
   * Authors: Harrie Oosterhuis and Maarten de Rijke
 * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
 
+Conference and Workshop Organization
+======
+* 2024: **Workshop Co-organizer** - Third Edition of the CONSEQUENCES Workshop at the Conference on Recommender Systems (RecSys) - Bari, Italy DC, USA.
+* 2024: **General Chair** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR) - Washington DC, USA.
+* 2023: **Workshop Co-organizer** - Second Edition of the CONSEQUENCES Workshop, Conference on Recommender Systems (RecSys), Singapore.
+* 2022: **Workshop Co-organizer** - First Edition of the CONSEQUENCES Workshop at the Conference on Recommender Systems (RecSys - Seattle, USA.
 
 PhD Candidate Supervision
 ======
