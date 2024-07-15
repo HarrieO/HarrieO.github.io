@@ -15,7 +15,7 @@ redirect_from:
 Employment
 ======
 * 2020-present: **Assistant Professor** - Radboud University - Nijmegen, The Netherlands
-* 2023-2025: **Visiting Research Scholar Professor** - Google DeepMind - Amsterdam, The Netherlands
+* 2023-2025: **Visiting Research Scholar** - Google DeepMind - Amsterdam, The Netherlands
 * 2022: **Staff ML Researcher** - Twitter - Remote
 * 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
   * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
