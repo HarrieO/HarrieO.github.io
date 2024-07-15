@@ -13,7 +13,7 @@ Additionally, I am currently also a visiting research scholar at [Google DeepMin
 My research lies on the intersection of machine learning and information retrieval, it primarily concerns learning from user interactions on rankings.
 In particular, I focus on methods that correct for the effects of interaction biases.
 
-For the latest news about me or my research check out [my Twitter](https://twitter.com/HarrieOos). <!-- or [my blog posts](year-archive). -->
+For the latest news about me or my research check out [my LinkedIn profile](https://www.linkedin.com/in/harrie-oosterhuis-277b5689/). <!-- or [my blog posts](year-archive). -->
 
 My Research Topics
 ------
