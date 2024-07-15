@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an assistant professor at the [Data Science Group](https://www.ru.nl/datascience/) of the [Institute of Computing and Information Sciences (iCIS)](https://www.ru.nl/icis/) of the [Radboud University](https://www.ru.nl/english/).
+Additionally, I am currently also a visiting research scholar at [Google DeepMind](https://deepmind.google/).
 My research lies on the intersection of machine learning and information retrieval, it primarily concerns learning from user interactions on rankings.
 In particular, I focus on methods that correct for the effects of interaction biases.
 
@@ -31,7 +32,9 @@ I have completed most of my education at the [University of Amsterdam](https://w
 My bachelor's and master's degree are both in Artificial Intelligence and cum laude.
 During my master's program I joined the ILPS Information Retrieval group lead by [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as an honours student (now known as the [IRLab](https://irlab.science.uva.nl/) lead by [prof. dr. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/)).
 In addition, I completed three internships at Google Research in California during my master and PhD.
-Under supervision of prof. dr. Maarten de Rijke, I received my PhD cum laude for my thesis titled _Learning from user interactions with rankings: A unification of the field_.
+Under supervision of prof. dr. Maarten de Rijke, I received my PhD cum laude for my thesis titled _[Learning from user interactions with rankings: A unification of the field](https://harrieo.github.io//publication/2021-phd-thesis)_, which received an [Andreas Bonn medal](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) from the Genootschap ter bevordering van Natuur-, Genees- en Heelkunde in 2024.
+Some of my works received best paper awards at ECIR'19, SIGIR'21, WSDM'21 and ICTIR'22; I'm a recipient of a [2021 Google Research Scholar Award](https://research.google/programs-and-events/research-scholar-program/recipients/), [2023 Radboud Science Award](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) and a [2022 NWO Veni Grant](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2022).
+
 
 For more information on my past achievements, see [my CV page](https://harrieo.github.io//cv/).
 
@@ -40,7 +43,3 @@ Personal Mission
 Besides my passion for research, I also find it very important to create a healthy and welcoming working environment for researchers and students.
 Through discussion groups and personal mentoring, I have dedicated myself to help students feel appreciated and stimulate a healthy attitude towards their research and education.
 I hope that this contributes to an environment where students and researchers of every background feel welcome and appreciated.
-
-Twitter Feed
-------
-<a class="twitter-timeline" data-height="1200" data-dnt="true" href="https://twitter.com/HarrieOos?ref_src=twsrc%5Etfw">Tweets by HarrieOos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
