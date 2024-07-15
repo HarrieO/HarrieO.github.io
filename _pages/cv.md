@@ -67,7 +67,7 @@ Grants and Awards
 PhD Candidate Supervision
 ======
 * 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation (co-supervised with Maarten de Rijke).
-  * Jin Huang. (Learning Recommender Systems from Biased User Interactions)[https://pure.uva.nl/ws/files/152764736/Thesis.pdf]. PhD thesis, University of Amsterdam, February 2024.
+  * Jin Huang. [Learning Recommender Systems from Biased User Interactions](https://pure.uva.nl/ws/files/152764736/Thesis.pdf). PhD thesis, University of Amsterdam, February 2024.
 * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
 * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
 (co-supervised with Maarten de Rijke).
