@@ -27,7 +27,8 @@ Education
 
 Employment
 ======
-* 2020-present: **Assistant Professor** (Tenure Track) - Radboud University - Nijmegen, The Netherlands
+* 2020-present: **Assistant Professor** - Radboud University - Nijmegen, The Netherlands
+* 2023-2025: **Visiting Research Scholar Professor** - Google DeepMind - Amsterdam, The Netherlands
 * 2022: **Staff ML Researcher** - Twitter - Remote
 * 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
   * Visited the ISAR research group to work with [J. Shane Culpepper](http://culpepper.io/).
@@ -65,9 +66,15 @@ Grants and Awards
 
 PhD Candidate Supervision
 ======
-* 2019-2023 (expected): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
+* 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation (co-supervised with Maarten de Rijke).
+  * Jin Huang. (Learning Recommender Systems from Biased User Interactions)[https://pure.uva.nl/ws/files/152764736/Thesis.pdf]. PhD thesis, University of Amsterdam, February 2024.
 * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
 * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
+(co-supervised with Maarten de Rijke).
+* 2023-2027 (expected): **Jingwei Kang** -  Full-Page Personalization for Recommendation
+(co-supervised with Maarten de Rijke).
+* 2023-2027 (expected): **Oscar 
+Ramirez Milian** - Bayesian Learning to Rank.
 
 Teaching
 ======
