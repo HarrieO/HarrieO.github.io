@@ -23,7 +23,7 @@ Employment
 * 2017: **Research Intern** - Google Brain - Mountain View, California, U.S
 * 2016: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
 * 2015: **Research Intern** - Google Strategic Technologies - Mountain View, California, U.S
-  * Publication: *[Semantic Video Trailers](../publication/2016-trailers)* presented at the ICML 2016 Workshop on Multi-View Representation Learning
+  <!-- * Publication: *[Semantic Video Trailers](../publication/2016-trailers)* presented at the ICML 2016 Workshop on Multi-View Representation Learning -->
 * 2013–2014: **Research and Development, Software Engineer** - MediaSynced - Amsterdam, The Netherlands.
 * 2013: **Research Intern** - National Aerospace Laboratory - Amsterdam, The Netherlands
 
@@ -34,7 +34,7 @@ Education
   * Research Group: [Information Retrieval Lab Amsterdam](https://irlab.science.uva.nl/)
   * Promotor: [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/)
   * Thesis: [Learning from User Interactions with Rankings: A Unification of the Field](../publication/2021-phd-thesis)
-  * My thesis won an [Andreas Bonn medal](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) in 2024.
+  * Thesis won an [Andreas Bonn medal](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) in 2024.
 * **MSc in Artificial Intelligence**, University of Amsterdam, 2014-2016
   * Graduated Cum Laude with an average of 9.1.
   * Completed Honours program by performing and publishing research in the ILPS research group headed by prof. dr. Maarten de Rijke.
@@ -49,7 +49,7 @@ Grants and Awards
 * 2023: **Radboud Science Award** - [Wetenschapsknooppunt Radboud University](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) - Nijmegen, The Netherlands
   * Proposal title: Zoekende computers
   * Funding amount: €5.000 EUR
-* 2023: **Veni Grant** - [NWO Talent Programme](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) - .
+* 2023: **Veni Grant** - [NWO Talent Programme](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) - The Netherlands.
   * Proposal title: Search Systems with a Bayesian Understanding of Their Users (BAYES-SEARCH)
   * Funding amount: €280.000 EUR
 * 2022: **Best Paper Award** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’22) - Madrid, Spain.
