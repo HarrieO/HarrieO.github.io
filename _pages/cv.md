@@ -45,7 +45,6 @@ Grants and Awards
 ======
 * 2024: **Andreas Bonn Medal** - [Het Genootschap ter bevordering van Natuur-, Genees- en Heelkunde](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) - Amsterdam, The Netherlands
   * Award received for PhD thesis: _[Learning from user interactions with rankings: A unification of the field](https://harrieo.github.io//publication/2021-phd-thesis)_
-  * Funding amount: €1.000 EUR
 * 2023: **Radboud Science Award** - [Wetenschapsknooppunt Radboud University](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) - Nijmegen, The Netherlands
   * Proposal title: Zoekende computers
   * Funding amount: €5.000 EUR
