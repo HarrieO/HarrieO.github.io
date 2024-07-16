@@ -77,13 +77,14 @@ Conference and Workshop Organization
 
 PhD Candidate Supervision
 ======
-* 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation (co-supervised with Maarten de Rijke).
+* 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation.
   * Jin Huang. [Learning Recommender Systems from Biased User Interactions](https://pure.uva.nl/ws/files/152764736/Thesis.pdf). PhD thesis, University of Amsterdam, February 2024.
+  * Co-supervised by Maarten de Rijke.
 * 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
 * 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
-(co-supervised with Maarten de Rijke).
+  * Co-supervised by Maarten de Rijke.
 * 2023-2027 (expected): **Jingwei Kang** -  Full-Page Personalization for Recommendation
-(co-supervised with Maarten de Rijke).
+  * Co-supervised by Maarten de Rijke.
 * 2024-2028 (expected): **Oscar 
 Ramirez Milian** - Bayesian Learning to Rank.
 
