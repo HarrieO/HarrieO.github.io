@@ -43,6 +43,8 @@ Education
 
 Grants and Awards
 ======
+* 2024: **Early Career Researcher Award** - [ACM SIGIR](https://sigir.org/awards/sigir-ecr-awards/) - Washington DC, USA
+  * Award received in the research category with the following motivation: "For exceptional research contributions introducing both theoretical and empirical innovations with extensive impact on research and practice."
 * 2024: **Andreas Bonn Medal** - [Het Genootschap ter bevordering van Natuur-, Genees- en Heelkunde](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) - Amsterdam, The Netherlands
   * Award received for PhD thesis: _[Learning from user interactions with rankings: A unification of the field](https://harrieo.github.io//publication/2021-phd-thesis)_
 * 2023: **Radboud Science Award** - [Wetenschapsknooppunt Radboud University](https://www.ru.nl/en/about-us/news/radboud-science-awards-2023-conscientious-language-searching-computers-and-smell) - Nijmegen, The Netherlands
