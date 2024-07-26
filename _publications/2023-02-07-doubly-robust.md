@@ -4,7 +4,7 @@ authors: "Harrie Oosterhuis"
 collection: publications
 permalink: /publication/2023-doubly-robust
 excerpt: "In this paper, we introduce a novel DR estimator that is the first DR approach specifically designed for position-bias. The difficulty with position bias is that the treatment – user examination – is not directly observable in click data. As a solution, our estimator uses the expected treatment per rank, instead of the actual treatment that existing DR estimators use."
-date: 2023-01-01
+date: 2023-02-07
 venue: 'ACM Transactions on Information Systems 41.3 (TOIS ’23)'
 paperurl: http://harrieo.github.io/files/2023-doubly-robust.pdf
 citation: "H. Oosterhuis. &quot;Doubly-Robust Estimation for Correcting Position-Bias in Click Feedback for Unbiased Learning to Rank.&quot; ACM Transactions on Information Systems 41.3 (2023): 1-33."
