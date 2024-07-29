@@ -90,7 +90,7 @@ PhD Candidate Supervision
 * 2024-2028 (expected): **Oscar 
 Ramirez Milian** - Bayesian Learning to Rank.
 
-Teaching
+<!-- Teaching
 ======
 * 2022-2023: **Teacher** - MSc Data Science - Radboud University, Nijmegen, The Netherlands
   * Course title: Machine Learning in Practice
@@ -119,7 +119,7 @@ Teaching
 * 2016-2017: **Invited Lectures** - Google Brain - Mountain View, California, U.S.
   * Topics: Online Learning to Rank and Deep Reinforcement Learning
 * 2012-2015: **Teaching Assistant** - Various Bachelor Level Degrees - University of Amsterdam, Amsterdam, The Netherlands
-  * Topics: Introductory and Advanced Programming Courses
+  * Topics: Introductory and Advanced Programming Courses -->
 
 
 Publications
