@@ -124,7 +124,7 @@ Ramirez Milian** - Bayesian Learning to Rank.
 
 Publications
 ======
-According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 600 citations and my h-index is 15.
+According to [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) my publications have received over 1100 citations and my h-index is 20.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
