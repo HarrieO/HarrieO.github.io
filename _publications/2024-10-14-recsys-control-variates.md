@@ -6,7 +6,7 @@ permalink: /publication/2024-recsys-control-variates
 excerpt: "The off-policy learning paradigm allows for recommender systems and general ranking applications to be framed as decision-making problems, where we aim to learn decision policies that optimize an unbiased offline estimate of an online reward metric. With unbiasedness comes potentially high variance, and prevalent methods exist to reduce estimation variance. These methods typically make use of control variates, either additive (i.e., baseline corrections or doubly robust methods) or multiplicative (i.e., self-normalisation)."
 date: 2024-10-14
 venue: 'Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24)'
-paperurl: http://harrieo.github.io/files/2024-crm-ppo.pdf
+paperurl: http://harrieo.github.io/files/2024-recsys-control-variates.pdf
 citation: "Gupta, S., Jeunen, O., Oosterhuis, H., & de Rijke, M. (2024, October). Optimal Baseline Corrections for Off-Policy Contextual Bandits. In Proceedings of the 18th ACM Conference on Recommender Systems (RecSys ’24)."
 youtube: 
 codeurl: https://github.com/shashankg7/recsys2024_optimal_baseline
