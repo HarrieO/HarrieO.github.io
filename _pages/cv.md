@@ -89,6 +89,7 @@ PhD Candidate Supervision
   * Co-supervised by Maarten de Rijke.
 * 2024-2028 (expected): **Oscar 
 Ramirez Milian** - Bayesian Learning to Rank.
+* 2024-2026 (expected): **Thorsten Krause** - Choice Modeling for Recommendation Systems.
 
 <!-- Teaching
 ======
