@@ -7,7 +7,7 @@ excerpt: "We take a first look at the effects of selection bias in preference el
 date: 2023-09-18
 venue: 'CONSEQUENCES Workshop at RecSys ’23. (CONSEQUENCES ’23)'
 paperurl: http://harrieo.github.io/files/2023-consequences-convpe.pdf
-citation: "Shashank Gupta, Harrie Oosterhuis, and Maarten de Rijke. 2023. A First Look at Selection Bias in Preference Elicitation for Recommendation. In CONSEQUENCES Workshop at RecSys ’23, September 18-22, 2023, Singapore. ACM, New York, NY, USA, 6 pages."
+citation: "Shashank Gupta, Harrie Oosterhuis, and Maarten de Rijke. 2023. A First Look at Selection Bias in Preference Elicitation for Recommendation. In CONSEQUENCES Workshop at RecSys ’23, September 18-22, 2023, Singapore."
 youtube: 
 codeurl: https://github.com/shashankg7/Bias-Preference-Elicitation
 othervideo:

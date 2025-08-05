@@ -74,7 +74,7 @@ Conference and Workshop Organization
 ======
 * 2025: **Workshop Co-organizer** - Fourth Edition of the CONSEQUENCES Workshop at the Conference on Recommender Systems (RecSys) - Prague, Czech Republic.
 * 2025: **Resource Track Chair** - 2025 ACM Web Conference - Sydney, Australia.
-* 2024-2026: ** Steering Committee Member** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR).
+* 2024-2026: **Steering Committee Member** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR).
 * 2024: **Workshop Co-organizer** - Third Edition of the CONSEQUENCES Workshop at the Conference on Recommender Systems (RecSys) - Bari, Italy.
 * 2024: **General Chair** - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR) - Washington DC, USA.
 * 2023: **Workshop Co-organizer** - Second Edition of the CONSEQUENCES Workshop, Conference on Recommender Systems (RecSys), Singapore.
