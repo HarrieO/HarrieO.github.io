@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 I am an assistant professor at the [Data Science Group](https://www.ru.nl/datascience/) of the [Institute of Computing and Information Sciences (iCIS)](https://www.ru.nl/icis/) of the [Radboud University](https://www.ru.nl/english/).
-Additionally, I am currently also a visiting research scholar at [Google DeepMind](https://deepmind.google/).
-My research lies on the intersection of machine learning and information retrieval, it primarily concerns learning from user interactions on rankings.
-In particular, I focus on methods that correct for the effects of interaction biases.
+My research lies on the intersection of machine learning and information retrieval, it primarily concerns optimizing ranking systems and learning from user interactions on rankings.
+Additionally, some of my research is also about explainable A.I.
 
 For the latest news about me or my research check out [my LinkedIn profile](https://www.linkedin.com/in/harrie-oosterhuis-277b5689/). <!-- or [my blog posts](year-archive). -->
 
@@ -24,10 +23,13 @@ My research often uses theoretical methods for counterfactual estimation with ma
 
 On the long term, my line of research aims to contribute to ranking systems that can better satisfy and understand diverse user preferences that also consider the societal impact of their behavior (e.g. ranking fairness, the spreading misinformation or harmful ideas, etc.).
 
+Additionally, many of my research applies reinforcement learning to information retrieval systems, and my recent work with Google DeepMind has focused on applying large language models in retrieval system optimization and evaluation.
+
 To see the output of my research efforts check out [my Google Scholar profile](https://scholar.google.com/citations?user=e9JynrAAAAAJ) or [my publications page](publications).
 
 Background
 ------
+In recent years, I have been a visiting researcher at Twitter and Google DeepMind on a part-time basis, in addition, to my assistent professor position at Radboud University.
 I have completed most of my education at the [University of Amsterdam](https://www.uva.nl/en).
 My bachelor's and master's degree are both in Artificial Intelligence and cum laude.
 During my master's program I joined the ILPS Information Retrieval group lead by [prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as an honours student (now known as the [IRLab](https://irlab.science.uva.nl/) lead by [prof. dr. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/)).
