@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-kdd-reliable-genAI
 excerpt: "Recent advancements in generative artificial intelligence -specifically large language models (LLMs)- can generate relevance annotations at an enormous scale with relatively small computational costs. Potentially, this could alleviate the costs traditionally associated with IR evaluation and make it applicable to numerous low-resource applications. However, generated relevance annotations are not immune to (systematic) errors, and as a result, directly using them for evaluation produces unreliable results."
 date: 2024-08-26
-venue: 'Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24).'
+venue: 'Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24)'
 paperurl: http://harrieo.github.io/files/2024-kdd-reliable-genAI.pdf
 citation: "Oosterhuis, H., Jagerman, R., Qin, Z., Wang, X., & Bendersky, M. (2024). Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative AI. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25–29, 2024, Barcelona, Spain. ACM, New York, NY, USA, 11 pages."
 youtube: 
