@@ -43,6 +43,9 @@ Education
 
 Grants and Awards
 ======
+* 2025: **Honorable Mention** for Best Paper Awards - ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’25) - Padua, Italy.
+  * Paper: [Rethinking Click Models in Light of Carousel Interfaces: Theory-Based Categorization and Design of Click Models](../publication/2025-ictir-carousel)
+  * Author: Jingwei Kang, Maarten de Rijke, Santiago de Leon-Martinez and Harrie Oosterhuis
 * 2024: **Early Career Researcher Award** - [ACM SIGIR](https://sigir.org/awards/sigir-ecr-awards/) - Washington DC, USA
   * Award received in the research category with the following motivation: "For exceptional research contributions introducing both theoretical and empirical innovations with extensive impact on research and practice."
 * 2024: **Andreas Bonn Medal** - [Het Genootschap ter bevordering van Natuur-, Genees- en Heelkunde](https://gngh.nl/nieuws/uitreiking-van-de-andreas-bonn-medailles-en-sarphati-talentprijs-26-april-2024/) - Amsterdam, The Netherlands

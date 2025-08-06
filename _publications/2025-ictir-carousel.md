@@ -9,7 +9,7 @@ venue: 'Proceedings of the 2025 ACM SIGIR International Conference on the Theory
 paperurl: http://harrieo.github.io/files/2025-ictir-carousel.pdf
 citation: "Kang, J., de Rijke, M., de Leon-Martinez, S. and Oosterhuis, H., 2025, July. Rethinking Click Models in Light of Carousel Interfaces: Theory-Based Categorization and Design of Click Models. In Proceedings of the 2025 ACM SIGIR International Conference on the Theory of Information Retrieval. ACM, 2025."
 youtube: 
-award: 
+award: "ICTIR ’25 Honorable Mention"
 codeurl:
 slides: 
 ---
