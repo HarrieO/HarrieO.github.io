@@ -71,7 +71,7 @@ Grants and Awards
 * 2019: **Best Reproducibility Paper Award** - European Conference on Information Retrieval (ECIR ’19) - Cologne, Germany.
   * Paper: [Optimizing Ranking Models in an Online Setting](../publication/2019-oltr-comparison)
   * Authors: Harrie Oosterhuis and Maarten de Rijke
-* 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore.
+<!-- * 2017: **Outstanding Reviewer Award** - International Conference on Information and Knowledge Management (CIKM ’17) - Singapore. -->
 
 Conference and Workshop Organization
 ======
