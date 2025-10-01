@@ -5,9 +5,9 @@ collection: publications
 permalink: /publication/2025-ictir-carousel
 excerpt: "This work reconsiders what should be the fundamental concepts in click model design, grounding them - unlike previous approaches - in their mathematical properties."
 date: 2025-07-18
-venue: 'Proceedings of the 2025 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’25)'
+venue: 'Proceedings of the 2025 ACM SIGIR International Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR ’25)'
 paperurl: http://harrieo.github.io/files/2025-ictir-carousel.pdf
-citation: "Kang, J., de Rijke, M., de Leon-Martinez, S. and Oosterhuis, H., 2025, July. Rethinking Click Models in Light of Carousel Interfaces: Theory-Based Categorization and Design of Click Models. In Proceedings of the 2025 ACM SIGIR International Conference on the Theory of Information Retrieval. ACM, 2025."
+citation: "Kang, J., de Rijke, M., de Leon-Martinez, S. and Oosterhuis, H., 2025, July. Rethinking Click Models in Light of Carousel Interfaces: Theory-Based Categorization and Design of Click Models. In Proceedings of the 2025 ACM SIGIR International Conference on Innovative Concepts and Theories in Information Retrieval. ACM, 2025."
 youtube: 
 award: "ICTIR ’25 Honorable Mention"
 codeurl:
