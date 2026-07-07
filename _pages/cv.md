@@ -14,7 +14,9 @@ redirect_from:
 
 Employment
 ======
-* 2020-present: **Assistant Professor** - Radboud University - Nijmegen, The Netherlands
+* 2026-present: **Associate Professor** - University of Amsterdam - Amsterdam, The Netherlands
+* 2026-present: **Amazon Scholar** - Amazon Music - Remote
+* 2020-2026: **Assistant Professor** - Radboud University - Nijmegen, The Netherlands
 * 2023-2025: **Visiting Research Scholar** - Google DeepMind - Amsterdam, The Netherlands
 * 2022: **Staff ML Researcher** - Twitter - Remote
 * 2018: **Visiting PhD Student** - RMIT University - Melbourne, Australia
@@ -85,17 +87,19 @@ Conference and Workshop Organization
 
 PhD Candidate Supervision
 ======
-* 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation.
+* 2019-2024 (PhD 2024): **Jin Huang** - Bias Mitigation Methods for Sequential Recommendation
   * Jin Huang. [Learning Recommender Systems from Biased User Interactions](https://pure.uva.nl/ws/files/152764736/Thesis.pdf). PhD thesis, University of Amsterdam, February 2024.
   * Co-supervised by Maarten de Rijke.
-* 2021-2025 (expected): **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
-* 2021-2025 (expected): **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
+* 2021-2025: **Shashank Gupta** - Debiasing Methods for Conversational Recommendation
+  * Shashank Gupta. [Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models](https://pure.uva.nl/ws/files/257088241/Thesis.pdf). PhD thesis, University of Amsterdam, October 2025.
   * Co-supervised by Maarten de Rijke.
+* 2021-2026: **Norman Knyazev** - Bias Mitigation for Recommendation Algorithms
 * 2023-2027 (expected): **Jingwei Kang** -  Full-Page Personalization for Recommendation
   * Co-supervised by Maarten de Rijke.
 * 2024-2028 (expected): **Oscar 
 Ramirez Milian** - Bayesian Models of User Behavior with Rankings.
-* 2024-2026 (expected): **Thorsten Krause** - Choice Modelling for Recommendation Systems.
+* 2026-2030 (expected): **Dominykas Šeputis** - Generative Information Retrieval
+  * Co-supervised by Maarten de Rijke.
 
 <!-- Teaching
 ======
